@@ -1,0 +1,78 @@
+{
+  "subscribed": [
+    {
+      "id": 1,
+      "title": "The Secret of the Blue Crystal",
+      "author": "Sophia Bennett",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "The Last Guardian",
+      "author": "Ethan Carter",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Echoes of the Past",
+      "author": "Olivia Davis",
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "The Crimson Crown",
+      "author": "Noah Evans",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "Whispers of the Wind",
+      "author": "Ava Foster",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "The Lost City",
+      "author": "Liam Green",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    }
+  ],
+  "downloaded": [
+    {
+      "id": 7,
+      "title": "The Secret of the Blue Crystal",
+      "author": "Sophia Bennett",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 8,
+      "title": "The Last Guardian",
+      "author": "Ethan Carter",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 9,
+      "title": "Echoes of the Past",
+      "author": "Olivia Davis",
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 10,
+      "title": "The Crimson Crown",
+      "author": "Noah Evans",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 11,
+      "title": "Whispers of the Wind",
+      "author": "Ava Foster",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=300&h=400&fit=crop"
+    },
+    {
+      "id": 12,
+      "title": "The Lost City",
+      "author": "Liam Green",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+    }
+  ]
+}
