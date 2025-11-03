@@ -1,78 +1,111 @@
 {
-  "subscribed": [
+  "Acción / Fantasía / Aventura": [
     {
       "id": 1,
-      "title": "Thess Secret of the Blue Crystal",
-      "author": "Sophia Bennett",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "title": "Tower of God",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Tower_of_God"
     },
     {
       "id": 2,
-      "title": "The Last Guardian",
-      "author": "Ethan Carter",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=400&fit=crop"
+      "title": "The God of High School",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/The_God_of_High_School"
     },
     {
       "id": 3,
-      "title": "Echoes of the Past",
-      "author": "Olivia Davis",
-      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?w=300&h=400&fit=crop"
+      "title": "Noblesse",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Noblesse"
     },
     {
       "id": 4,
-      "title": "The Crimson Crown",
-      "author": "Noah Evans",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "title": "Solo Leveling",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Solo_Leveling"
     },
     {
       "id": 5,
-      "title": "Whispers of the Wind",
-      "author": "Ava Foster",
-      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=300&h=400&fit=crop"
+      "title": "DICE",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/DICE"
     },
     {
       "id": 6,
-      "title": "The Lost City",
-      "author": "Liam Green",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "title": "Regresión / Segunda Oportunidad",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Regresión_/_Segunda_Oportunidad"
+    },
+    {
+      "id": 7,
+      "title": "Mitología Urbana",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Mitología_Urbana"
+    },
+    {
+      "id": 8,
+      "title": "Caza de Recompensas Sci-Fi",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Caza_de_Recompensas_Sci-Fi"
+    },
+    {
+      "id": 9,
+      "title": "Invocadores",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Invocadores"
+    },
+    {
+      "id": 10,
+      "title": "Murim / Artes Marciales",
+      "author": "@Lab",
+      "image": "https://image.pollinations.ai/prompt/Murim_/_Artes_Marciales"
     }
   ],
-  "downloaded": [
+  "Romance / Escolar / Slice of Life": [
     {
       "id": 7,
       "title": "The Secret of the Blue Crystal",
       "author": "Sophia Bennett",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     },
     {
       "id": 8,
       "title": "The Last Guardian",
       "author": "Ethan Carter",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     },
     {
       "id": 9,
       "title": "Echoes of the Past",
       "author": "Olivia Davis",
-      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     },
     {
       "id": 10,
       "title": "The Crimson Crown",
       "author": "Noah Evans",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     },
     {
       "id": 11,
       "title": "Whispers of the Wind",
       "author": "Ava Foster",
-      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     },
     {
       "id": 12,
       "title": "The Lost City",
       "author": "Liam Green",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=400&fit=crop"
+      "image": "https://image.pollinations.ai/prompt/"
     }
+  ],
+  "Acción / Fantasía / Histórico":[
+    
+  ],
+  "Drama / Romance / Slice of Life":[
+    
+  ],
+  "Terror / Misterio / Psicológico":[
+    
   ]
 }
