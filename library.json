@@ -1,66 +1,318 @@
 {
   "Accion / Fantasia / Aventura": [
-    {
-      "id": 1,
-      "title": "Tower of God",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Tower_of_God"
-    },
-    {
-      "id": 2,
-      "title": "The God of High School",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/The_God_of_High_School"
-    },
-    {
-      "id": 3,
-      "title": "Noblesse",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Noblesse"
-    },
-    {
-      "id": 4,
-      "title": "Solo Leveling",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Solo_Leveling"
-    },
-    {
-      "id": 5,
-      "title": "DICE",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/DICE"
-    },
-    {
-      "id": 6,
-      "title": "Regresión / Segunda Oportunidad",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Regresión_/_Segunda_Oportunidad"
-    },
-    {
-      "id": 7,
-      "title": "Mitología Urbana",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Mitología_Urbana"
-    },
-    {
-      "id": 8,
-      "title": "Caza de Recompensas Sci-Fi",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Caza_de_Recompensas_Sci-Fi"
-    },
-    {
-      "id": 9,
-      "title": "Invocadores",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Invocadores"
-    },
-    {
-      "id": 10,
-      "title": "Murim / Artes Marciales",
-      "author": "@Lab",
-      "image": "https://image.pollinations.ai/prompt/Murim_/_Artes_Marciales"
-    }
-  ],
+        {
+            "id": 1,
+            "title": "Tower of God",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Tower_of_God",
+            "episodes": [
+                {
+                    "id": "e1",
+                    "title": "Episodio 1: La Torre te llama",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Door",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "¿Qué es lo que deseas? ¿Dinero y riquezas? ¿Orgullo y honor? ¿Autoridad y poder? ¿Venganza? O quizás... ¿algo más trascendental?",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic",
+                                "color": "#cbd5e1"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Tower_of_God_Headon_dark_fantasy"
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Todo lo que buscas está aquí arriba. Solo tienes que subir.",
+                            "style": {
+                                "textAlign": "center"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e2",
+                    "title": "Episodio 2: La Prueba de Headon",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Eel",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Bienvenido al piso de prueba. Para pasar, debes romper esa esfera negra.",
+                            "style": {
+                                "fontWeight": "bold"
+                            }
+                        },
+                        {
+                            "id": "b2",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Giant_Steel_Eel_Monster_Anime"
+                        },
+                        {
+                            "id": "b3",
+                            "type": "ad",
+                            "content": "anuncio",
+                            "duration": 5
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Pero cuidado... la Anguila de Acero no te dejará pasar fácilmente."
+                        }
+                    ]
+                },
+                {
+                    "id": "e3",
+                    "title": "Episodio 3: Marzo Negro",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Black_March_Sword",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Anime_Princess_Yuri_Jahad"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "'Toma esto, chico. Es una de las 13 Series de los Meses. Marzo Negro.'",
+                            "style": {
+                                "color": "#fb7185"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": "e4",
+                    "title": "Episodio 4: La Corona",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Crown_Game_Throne",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "El juego de la corona ha comenzado. Si te sientas en el trono, serás el objetivo de todos."
+                        },
+                        {
+                            "id": "b2",
+                            "type": "ad",
+                            "content": "anuncio",
+                            "duration": 8
+                        },
+                        {
+                            "id": "b3",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Anime_Battle_Arena_Throne"
+                        }
+                    ]
+                },
+                {
+                    "id": "e5",
+                    "title": "Episodio 5: Rachel",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Rachel_Tower_of_God_Stars",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Dark_Starry_Sky_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Yo solo quería ver las estrellas... Bam, ¿por qué me seguiste?",
+                            "style": {
+                                "fontFamily": "serif"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The God of High School",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/The_God_of_High_School",
+            "episodes": [
+                {
+                    "id": "e1",
+                    "title": "Episodio 1: La Invitación",
+                    "thumbnail": "https://image.pollinations.ai/prompt/GOH_Invitation",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Una invitación para el torneo más grande del mundo. ¿El premio? Cualquier deseo que pidas."
+                        }
+                    ]
+                },
+                {
+                    "id": "e2",
+                    "title": "Episodio 2: Taekwondo",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Jin_Mori_Kick",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Jin Mori usa Re-Taekwondo. Su velocidad es inigualable."
+                        },
+                        {
+                            "id": "b2",
+                            "type": "ad",
+                            "content": "anuncio",
+                            "duration": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "e3",
+                    "title": "Episodio 3: Pelea Callejera",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e4",
+                    "title": "Episodio 4: El Payaso",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5",
+                    "title": "Episodio 5: Charyeok",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Noblesse",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Noblesse",
+            "episodes": [
+                {
+                    "id": "e1",
+                    "title": "Episodio 1: El Despertar",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Cadis_Etrama_Di_Raizel",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Coffin_Opening_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Después de 820 años de sueño... la Noblesse ha despertado.",
+                            "style": {
+                                "color": "#ef4444"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "e2",
+                    "title": "Episodio 2: La Escuela",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e3",
+                    "title": "Episodio 3: Ramen",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e4",
+                    "title": "Episodio 4: M-21",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5",
+                    "title": "Episodio 5: Unión",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        }
+    ],
+    "Romance / Escolar / Slice of Life": [
+        {
+            "id": 7,
+            "title": "The Secret of the Blue Crystal",
+            "author": "Sophia Bennett",
+            "image": "https://image.pollinations.ai/prompt/Blue_Crystal_Anime",
+            "episodes": [
+                {
+                    "id": "e1",
+                    "title": "Episodio 1: Un encuentro fortuito",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Anime_School_Corridor",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Nunca pensé que chocar contigo cambiaría mi destino."
+                        }
+                    ]
+                },
+                {
+                    "id": "e2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        }
+    ],
   "Romance / Escolar / Slice of Life": [
     {
       "id": 7,
