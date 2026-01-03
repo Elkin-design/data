@@ -1055,9 +1055,483 @@
             ]
         }
     ],
-  "Acción / Fantasía / Histórico":[
-    
-  ],
+    "Acción / Fantasía / Histórico": [
+        {
+            "id": 21,
+            "title": "The Red General",
+            "author": "War Historian",
+            "image": "https://image.pollinations.ai/prompt/Samurai_General_Red_Armor",
+            "episodes": [
+                {
+                    "id": "e21-1",
+                    "title": "Episodio 1: La Caída del Imperio",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Burning_Castle_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El día que el cielo se tiñó de sangre, supe que la paz había terminado."
+                        }
+                    ]
+                },
+                {
+                    "id": "e21-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e21-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e21-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e21-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Spirit Sword",
+            "author": "Blade Master",
+            "image": "https://image.pollinations.ai/prompt/Glowing_Blue_Katana_Anime",
+            "episodes": [
+                {
+                    "id": "e22-1",
+                    "title": "Episodio 1: El Despertar de la Espada",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Sword_In_Stone_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Ancient_Temple_Ruins"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Solo aquel con un alma pura podrá desenvainarla."
+                        }
+                    ]
+                },
+                {
+                    "id": "e22-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e22-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e22-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e22-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "title": "The Alchemist's Empire",
+            "author": "Gold Maker",
+            "image": "https://image.pollinations.ai/prompt/Steampunk_Alchemist_Anime",
+            "episodes": [
+                {
+                    "id": "e23-1",
+                    "title": "Episodio 1: Transmutación",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Alchemy_Circle_Glow",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El intercambio equivalente es una mentira."
+                        }
+                    ]
+                },
+                {
+                    "id": "e23-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e23-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e23-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e23-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Samurai of the Void",
+            "author": "Ronin X",
+            "image": "https://image.pollinations.ai/prompt/Dark_Samurai_Void_Background",
+            "episodes": [
+                {
+                    "id": "e24-1",
+                    "title": "Episodio 1: Sin Señor",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Lonely_Ronin_Walking",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Vago por la oscuridad, buscando una luz que se apagó hace mucho."
+                        }
+                    ]
+                },
+                {
+                    "id": "e24-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e24-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e24-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e24-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Imperial Guard",
+            "author": "Loyalty First",
+            "image": "https://image.pollinations.ai/prompt/Royal_Guard_Anime_Armor",
+            "episodes": [
+                {
+                    "id": "e25-1",
+                    "title": "Episodio 1: Proteger al Rey",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Throne_Room_Guards",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Mi vida pertenece a la corona. Mi espada es su escudo."
+                        }
+                    ]
+                },
+                {
+                    "id": "e25-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e25-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e25-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e25-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "title": "The Dragon's Scroll",
+            "author": "Myth Keeper",
+            "image": "https://image.pollinations.ai/prompt/Ancient_Scroll_Dragon_Drawing",
+            "episodes": [
+                {
+                    "id": "e26-1",
+                    "title": "Episodio 1: La Profecía",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Old_Monk_Reading_Scroll",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Cuando el dragón despierte, el mundo arderá."
+                        }
+                    ]
+                },
+                {
+                    "id": "e26-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e26-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e26-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e26-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Knight of the Eclipse",
+            "author": "Dark Soul",
+            "image": "https://image.pollinations.ai/prompt/Black_Knight_Eclipse_Sun",
+            "episodes": [
+                {
+                    "id": "e27-1",
+                    "title": "Episodio 1: Oscuridad Eterna",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Dark_Fantasy_Landscape",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Cursed_Sword_Glow"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El sol ha muerto. Ahora reinamos nosotros."
+                        }
+                    ]
+                },
+                {
+                    "id": "e27-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e27-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e27-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e27-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Chronicles of the Old Kingdom",
+            "author": "Scribe",
+            "image": "https://image.pollinations.ai/prompt/Medieval_Kingdom_Map_Anime",
+            "episodes": [
+                {
+                    "id": "e28-1",
+                    "title": "Episodio 1: Mapas Olvidados",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Explorer_Anime_Ruins",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Nadie ha pisado estas tierras en mil años."
+                        }
+                    ]
+                },
+                {
+                    "id": "e28-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e28-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e28-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e28-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": "The Shaman Queen",
+            "author": "Spirit Walker",
+            "image": "https://image.pollinations.ai/prompt/Anime_Shaman_Girl_Mask",
+            "episodes": [
+                {
+                    "id": "e29-1",
+                    "title": "Episodio 1: Convocatoria",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Bonfire_Ritual_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Los espíritus están inquietos esta noche."
+                        }
+                    ]
+                },
+                {
+                    "id": "e29-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e29-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e29-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e29-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Blade of the North",
+            "author": "Winter Warrior",
+            "image": "https://image.pollinations.ai/prompt/Warrior_In_Snow_Anime",
+            "episodes": [
+                {
+                    "id": "e30-1",
+                    "title": "Episodio 1: Invierno Nuclear",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Snowy_Mountain_Peak",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Frozen_Village_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El frío no es lo único que mata aquí."
+                        }
+                    ]
+                },
+                {
+                    "id": "e30-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e30-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e30-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e30-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        }
+    ],
   "Drama / Romance / Slice of Life":[
     
   ],
