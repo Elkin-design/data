@@ -1,15 +1,15 @@
 {
-      "Accion / Fantasia / Aventura": [
+    "Accion / Fantasia / Aventura": [
         {
             "id": 1,
             "title": "Tower of God",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Tower_of_God",
+            "image": "/assets/covers/cover_1.jpg",
             "episodes": [
                 {
                     "id": "e1-1",
                     "title": "Episodio 1: La Torre te llama",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Door",
+                    "thumbnail": "/assets/episodes/thumb_e1-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -30,7 +30,7 @@
                         {
                             "id": "b3",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Tower_of_God_Headon_dark_fantasy"
+                            "content": "/assets/blocks/block_e1-1_b3.jpg"
                         },
                         {
                             "id": "b4",
@@ -45,25 +45,25 @@
                 {
                     "id": "e1-2",
                     "title": "Episodio 2: La Prueba de Headon",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Eel",
+                    "thumbnail": "/assets/episodes/thumb_e1-2.jpg",
                     "blocks": []
                 },
                 {
                     "id": "e1-3",
                     "title": "Episodio 3: Marzo Negro",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Black_March_Sword",
+                    "thumbnail": "/assets/episodes/thumb_e1-3.jpg",
                     "blocks": []
                 },
                 {
                     "id": "e1-4",
                     "title": "Episodio 4: La Corona",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Crown_Game_Throne",
+                    "thumbnail": "/assets/episodes/thumb_e1-4.jpg",
                     "blocks": []
                 },
                 {
                     "id": "e1-5",
                     "title": "Episodio 5: Rachel",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Rachel_Tower_of_God_Stars",
+                    "thumbnail": "/assets/episodes/thumb_e1-5.jpg",
                     "blocks": []
                 }
             ]
@@ -72,12 +72,12 @@
             "id": 2,
             "title": "The God of High School",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/The_God_of_High_School",
+            "image": "https://image.pollinations.ai/prompt/The_God_of_High_School_Anime_Cover",
             "episodes": [
                 {
                     "id": "e2-1",
                     "title": "Episodio 1: La Invitación",
-                    "thumbnail": "https://image.pollinations.ai/prompt/GOH_Invitation",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_La_Invitacin_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -121,17 +121,17 @@
             "id": 3,
             "title": "Noblesse",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Noblesse",
+            "image": "https://image.pollinations.ai/prompt/Noblesse_Anime_Cover",
             "episodes": [
                 {
                     "id": "e3-1",
                     "title": "Episodio 1: El Despertar",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Cadis_Etrama_Di_Raizel",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_El_Despertar_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Coffin_Opening_Anime"
+                            "content": "https://image.pollinations.ai/prompt/Episodio_1_El_Despertar_b1_Anime_Detail"
                         },
                         {
                             "id": "b2",
@@ -170,17 +170,17 @@
             "id": 4,
             "title": "Solo Leveling",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Solo_Leveling",
+            "image": "https://image.pollinations.ai/prompt/Solo_Leveling_Anime_Cover",
             "episodes": [
                 {
                     "id": "e4-1",
                     "title": "Episodio 1: Cazador Rango E",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Weak",
+                    "thumbnail": "/assets/episodes/thumb_e4-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Knife"
+                            "content": "/assets/blocks/block_e4-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -197,7 +197,7 @@
                 {
                     "id": "e4-2",
                     "title": "Episodio 2: La Mazmorra Doble",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Double_Dungeon_Gate",
+                    "thumbnail": "/assets/episodes/thumb_e4-2.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -215,19 +215,19 @@
                 {
                     "id": "e4-3",
                     "title": "Episodio 3: La Estatua de Dios",
-                    "thumbnail": "https://image.pollinations.ai/prompt/God_Statue_Solo_Leveling",
+                    "thumbnail": "/assets/episodes/thumb_e4-3.jpg",
                     "blocks": []
                 },
                 {
                     "id": "e4-4",
                     "title": "Episodio 4: El Sistema",
-                    "thumbnail": "https://image.pollinations.ai/prompt/System_Screen_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e4-4.jpg",
                     "blocks": []
                 },
                 {
                     "id": "e4-5",
                     "title": "Episodio 5: Despertar",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Wake_Up",
+                    "thumbnail": "/assets/episodes/thumb_e4-5.jpg",
                     "blocks": []
                 }
             ]
@@ -236,12 +236,12 @@
             "id": 5,
             "title": "DICE",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/DICE",
+            "image": "/assets/covers/cover_5.jpg",
             "episodes": [
                 {
                     "id": "e5-1",
                     "title": "Episodio 1: El Dado que lo cambia todo",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Golden_Dice_Rolling",
+                    "thumbnail": "/assets/episodes/thumb_e5-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -285,17 +285,17 @@
             "id": 6,
             "title": "Regresión / Segunda Oportunidad",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Regresión_/_Segunda_Oportunidad",
+            "image": "/assets/covers/cover_6.jpg",
             "episodes": [
                 {
                     "id": "e6-1",
                     "title": "Episodio 1: El Final es el Comienzo",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Time_Rewind_Clock",
+                    "thumbnail": "/assets/episodes/thumb_e6-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Hero_Dying_Battlefield"
+                            "content": "/assets/blocks/block_e6-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -334,12 +334,12 @@
             "id": 7,
             "title": "Mitología Urbana",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Mitología_Urbana",
+            "image": "/assets/covers/cover_7.jpg",
             "episodes": [
                 {
                     "id": "e7-1",
                     "title": "Episodio 1: Dioses en el Metro",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Subway_Neon_God",
+                    "thumbnail": "/assets/episodes/thumb_e7-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -383,17 +383,17 @@
             "id": 8,
             "title": "Caza de Recompensas Sci-Fi",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Caza_de_Recompensas_Sci-Fi",
+            "image": "/assets/covers/cover_8.jpg",
             "episodes": [
                 {
                     "id": "e8-1",
                     "title": "Episodio 1: Objetivo Localizado",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Cyberpunk_Bounty_Scanner",
+                    "thumbnail": "/assets/episodes/thumb_e8-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Cyberpunk_City_Night"
+                            "content": "/assets/blocks/block_e8-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -432,12 +432,12 @@
             "id": 9,
             "title": "Invocadores",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Invocadores",
+            "image": "/assets/covers/cover_9.jpg",
             "episodes": [
                 {
                     "id": "e9-1",
                     "title": "Episodio 1: El Primer Pacto",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Summoning_Circle_Magic",
+                    "thumbnail": "/assets/episodes/thumb_e9-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -481,17 +481,17 @@
             "id": 10,
             "title": "Murim / Artes Marciales",
             "author": "@Lab",
-            "image": "https://image.pollinations.ai/prompt/Murim_/_Artes_Marciales",
+            "image": "/assets/covers/cover_10.jpg",
             "episodes": [
                 {
                     "id": "e10-1",
                     "title": "Episodio 1: Cultivación Qi",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Murim_Meditation_Waterfall",
+                    "thumbnail": "/assets/episodes/thumb_e10-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Chinese_Martial_Arts_Mountain"
+                            "content": "/assets/blocks/block_e10-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -529,66 +529,15 @@
     ],
     "Romance / Escolar / Slice of Life": [
         {
-            "id": 7,
-            "title": "The Secret of the Blue Crystal",
-            "author": "Sophia Bennett",
-            "image": "https://image.pollinations.ai/prompt/Blue_Crystal_Anime",
-            "episodes": [
-                {
-                    "id": "e1",
-                    "title": "Episodio 1: Un encuentro fortuito",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Anime_School_Corridor",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                        },
-                        {
-                            "id": "b2",
-                            "type": "text",
-                            "content": "Nunca pensé que chocar contigo cambiaría mi destino."
-                        }
-                    ]
-                },
-                {
-                    "id": "e2",
-                    "title": "Episodio 2",
-                    "thumbnail": "",
-                    "blocks": []
-                },
-                {
-                    "id": "e3",
-                    "title": "Episodio 3",
-                    "thumbnail": "",
-                    "blocks": []
-                },
-                {
-                    "id": "e4",
-                    "title": "Episodio 4",
-                    "thumbnail": "",
-                    "blocks": []
-                },
-                {
-                    "id": "e5",
-                    "title": "Episodio 5",
-                    "thumbnail": "",
-                    "blocks": []
-                }
-            ]
-        }
-    ],
-  "Romance / Escolar / Slice of Life": [
-        {
             "id": 11,
             "title": "The Secret of the Blue Crystal",
             "author": "Sophia Bennett",
-            "image": "https://image.pollinations.ai/prompt/Blue_Crystal_Anime",
+            "image": "/assets/covers/cover_11.jpg",
             "episodes": [
                 {
                     "id": "e11-1",
                     "title": "Episodio 1: Un encuentro fortuito",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Anime_School_Corridor",
+                    "thumbnail": "/assets/episodes/thumb_e11-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -632,17 +581,17 @@
             "id": 12,
             "title": "Amor bajo la Lluvia",
             "author": "Elena R.",
-            "image": "https://image.pollinations.ai/prompt/Anime_Couple_Under_Rain",
+            "image": "/assets/covers/cover_12.jpg",
             "episodes": [
                 {
                     "id": "e12-1",
                     "title": "Episodio 1: El Paraguas",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Red_Umbrella_Rain_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e12-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Rainy_Bus_Stop_Anime"
+                            "content": "/assets/blocks/block_e12-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -681,12 +630,12 @@
             "id": 13,
             "title": "Mi Vecino es un Idol",
             "author": "K-Pop Fan",
-            "image": "https://image.pollinations.ai/prompt/Kpop_Idol_Anime_Boy",
+            "image": "/assets/covers/cover_13.jpg",
             "episodes": [
                 {
                     "id": "e13-1",
                     "title": "Episodio 1: La Mudanza",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Moving_Boxes_Apartment_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e13-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -730,17 +679,17 @@
             "id": 14,
             "title": "Café de Gatos y Libros",
             "author": "Mina S.",
-            "image": "https://image.pollinations.ai/prompt/Anime_Cat_Cafe_Cozy",
+            "image": "/assets/covers/cover_14.jpg",
             "episodes": [
                 {
                     "id": "e14-1",
                     "title": "Episodio 1: Aroma a Café",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Latte_Art_Cat_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e14-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Cozy_Cafe_Interior_Anime"
+                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Aroma_a_Caf_b1_Anime_Detail"
                         },
                         {
                             "id": "b2",
@@ -779,12 +728,12 @@
             "id": 15,
             "title": "La Presidenta del Consejo",
             "author": "School Life",
-            "image": "https://image.pollinations.ai/prompt/Anime_Student_Council_President",
+            "image": "https://image.pollinations.ai/prompt/La_Presidenta_del_Consejo_Anime_Cover",
             "episodes": [
                 {
                     "id": "e15-1",
                     "title": "Episodio 1: Reglas estrictas",
-                    "thumbnail": "https://image.pollinations.ai/prompt/School_Council_Room",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Reglas_estrictas_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -823,12 +772,12 @@
             "id": 16,
             "title": "Verano Eterno",
             "author": "Summer Vibe",
-            "image": "https://image.pollinations.ai/prompt/Anime_Summer_Beach",
+            "image": "https://image.pollinations.ai/prompt/Verano_Eterno_Anime_Cover",
             "episodes": [
                 {
                     "id": "e16-1",
                     "title": "Episodio 1: Las Vacaciones",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Train_By_The_Sea_Anime",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Las_Vacaciones_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -872,12 +821,12 @@
             "id": 17,
             "title": "Mi Doble Vida",
             "author": "Secret Identity",
-            "image": "https://image.pollinations.ai/prompt/Anime_Girl_Glasses_Transformation",
+            "image": "https://image.pollinations.ai/prompt/Mi_Doble_Vida_Anime_Cover",
             "episodes": [
                 {
                     "id": "e17-1",
                     "title": "Episodio 1: Nadie lo sabe",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Streaming_Setup_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e17-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -916,17 +865,17 @@
             "id": 18,
             "title": "Corazones de Papel",
             "author": "Origami L.",
-            "image": "https://image.pollinations.ai/prompt/Origami_Heart_Anime",
+            "image": "/assets/covers/cover_18.jpg",
             "episodes": [
                 {
                     "id": "e18-1",
                     "title": "Episodio 1: La nota",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Love_Letter_Locker_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e18-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/School_Lockers_Anime"
+                            "content": "/assets/blocks/block_e18-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -965,12 +914,12 @@
             "id": 19,
             "title": "El Chico de la Ventana",
             "author": "Window Gazer",
-            "image": "https://image.pollinations.ai/prompt/Anime_Boy_Looking_Out_Window",
+            "image": "/assets/covers/cover_19.jpg",
             "episodes": [
                 {
                     "id": "e19-1",
                     "title": "Episodio 1: Siempre mirando",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Classroom_Window_Sunset_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e19-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1009,12 +958,12 @@
             "id": 20,
             "title": "Melodía Discreta",
             "author": "Piano Key",
-            "image": "https://image.pollinations.ai/prompt/Anime_Girl_Playing_Violin",
+            "image": "/assets/covers/cover_20.jpg",
             "episodes": [
                 {
                     "id": "e20-1",
                     "title": "Episodio 1: La sala de música",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Music_Room_Piano_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e20-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1060,12 +1009,12 @@
             "id": 21,
             "title": "The Red General",
             "author": "War Historian",
-            "image": "https://image.pollinations.ai/prompt/Samurai_General_Red_Armor",
+            "image": "/assets/covers/cover_21.jpg",
             "episodes": [
                 {
                     "id": "e21-1",
                     "title": "Episodio 1: La Caída del Imperio",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Burning_Castle_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e21-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1109,17 +1058,17 @@
             "id": 22,
             "title": "Spirit Sword",
             "author": "Blade Master",
-            "image": "https://image.pollinations.ai/prompt/Glowing_Blue_Katana_Anime",
+            "image": "/assets/covers/cover_22.jpg",
             "episodes": [
                 {
                     "id": "e22-1",
                     "title": "Episodio 1: El Despertar de la Espada",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Sword_In_Stone_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e22-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Ancient_Temple_Ruins"
+                            "content": "/assets/blocks/block_e22-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -1158,12 +1107,12 @@
             "id": 23,
             "title": "The Alchemist's Empire",
             "author": "Gold Maker",
-            "image": "https://image.pollinations.ai/prompt/Steampunk_Alchemist_Anime",
+            "image": "/assets/covers/cover_23.jpg",
             "episodes": [
                 {
                     "id": "e23-1",
                     "title": "Episodio 1: Transmutación",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Alchemy_Circle_Glow",
+                    "thumbnail": "/assets/episodes/thumb_e23-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1207,12 +1156,12 @@
             "id": 24,
             "title": "Samurai of the Void",
             "author": "Ronin X",
-            "image": "https://image.pollinations.ai/prompt/Dark_Samurai_Void_Background",
+            "image": "/assets/covers/cover_24.jpg",
             "episodes": [
                 {
                     "id": "e24-1",
                     "title": "Episodio 1: Sin Señor",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Lonely_Ronin_Walking",
+                    "thumbnail": "/assets/episodes/thumb_e24-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1251,12 +1200,12 @@
             "id": 25,
             "title": "Imperial Guard",
             "author": "Loyalty First",
-            "image": "https://image.pollinations.ai/prompt/Royal_Guard_Anime_Armor",
+            "image": "/assets/covers/cover_25.jpg",
             "episodes": [
                 {
                     "id": "e25-1",
                     "title": "Episodio 1: Proteger al Rey",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Throne_Room_Guards",
+                    "thumbnail": "/assets/episodes/thumb_e25-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1295,12 +1244,12 @@
             "id": 26,
             "title": "The Dragon's Scroll",
             "author": "Myth Keeper",
-            "image": "https://image.pollinations.ai/prompt/Ancient_Scroll_Dragon_Drawing",
+            "image": "/assets/covers/cover_26.jpg",
             "episodes": [
                 {
                     "id": "e26-1",
                     "title": "Episodio 1: La Profecía",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Old_Monk_Reading_Scroll",
+                    "thumbnail": "/assets/episodes/thumb_e26-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1344,17 +1293,17 @@
             "id": 27,
             "title": "Knight of the Eclipse",
             "author": "Dark Soul",
-            "image": "https://image.pollinations.ai/prompt/Black_Knight_Eclipse_Sun",
+            "image": "/assets/covers/cover_27.jpg",
             "episodes": [
                 {
                     "id": "e27-1",
                     "title": "Episodio 1: Oscuridad Eterna",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Dark_Fantasy_Landscape",
+                    "thumbnail": "/assets/episodes/thumb_e27-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Cursed_Sword_Glow"
+                            "content": "/assets/blocks/block_e27-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -1393,12 +1342,12 @@
             "id": 28,
             "title": "Chronicles of the Old Kingdom",
             "author": "Scribe",
-            "image": "https://image.pollinations.ai/prompt/Medieval_Kingdom_Map_Anime",
+            "image": "/assets/covers/cover_28.jpg",
             "episodes": [
                 {
                     "id": "e28-1",
                     "title": "Episodio 1: Mapas Olvidados",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Explorer_Anime_Ruins",
+                    "thumbnail": "/assets/episodes/thumb_e28-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1437,12 +1386,12 @@
             "id": 29,
             "title": "The Shaman Queen",
             "author": "Spirit Walker",
-            "image": "https://image.pollinations.ai/prompt/Anime_Shaman_Girl_Mask",
+            "image": "/assets/covers/cover_29.jpg",
             "episodes": [
                 {
                     "id": "e29-1",
                     "title": "Episodio 1: Convocatoria",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Bonfire_Ritual_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e29-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1486,17 +1435,17 @@
             "id": 30,
             "title": "Blade of the North",
             "author": "Winter Warrior",
-            "image": "https://image.pollinations.ai/prompt/Warrior_In_Snow_Anime",
+            "image": "/assets/covers/cover_30.jpg",
             "episodes": [
                 {
                     "id": "e30-1",
                     "title": "Episodio 1: Invierno Nuclear",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Snowy_Mountain_Peak",
+                    "thumbnail": "/assets/episodes/thumb_e30-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Frozen_Village_Anime"
+                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Invierno_Nuclear_b1_Anime_Detail"
                         },
                         {
                             "id": "b2",
@@ -1532,17 +1481,17 @@
             ]
         }
     ],
-"Drama / Romance / Slice of Life": [
+    "Drama / Romance / Slice of Life": [
         {
             "id": 31,
             "title": "Broken Strings",
             "author": "Melody Heart",
-            "image": "https://image.pollinations.ai/prompt/Broken_Violin_Anime",
+            "image": "https://image.pollinations.ai/prompt/Broken_Strings_Anime_Cover",
             "episodes": [
                 {
                     "id": "e31-1",
                     "title": "Episodio 1: El Concierto Final",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Concert_Hall_Empty_Anime",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_El_Concierto_Final_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1586,17 +1535,17 @@
             "id": 32,
             "title": "Midnight Cafe",
             "author": "Night Owl",
-            "image": "https://image.pollinations.ai/prompt/Midnight_Diner_Anime",
+            "image": "https://image.pollinations.ai/prompt/Midnight_Cafe_Anime_Cover",
             "episodes": [
                 {
                     "id": "e32-1",
                     "title": "Episodio 1: Clientes Habituales",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Coffee_Steam_Anime",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Clientes_Habituales_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Neon_Sign_Cafe_Rain"
+                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Clientes_Habituales_b1_Anime_Detail"
                         },
                         {
                             "id": "b2",
@@ -1635,12 +1584,12 @@
             "id": 33,
             "title": "Fading Colors",
             "author": "Art Soul",
-            "image": "https://image.pollinations.ai/prompt/Artist_Studio_Anime_Sad",
+            "image": "/assets/covers/cover_33.jpg",
             "episodes": [
                 {
                     "id": "e33-1",
                     "title": "Episodio 1: Gris",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Monochrome_Painting_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e33-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1684,12 +1633,12 @@
             "id": 34,
             "title": "The Apartment Next Door",
             "author": "City Living",
-            "image": "https://image.pollinations.ai/prompt/Apartment_Balcony_Anime",
+            "image": "/assets/covers/cover_34.jpg",
             "episodes": [
                 {
                     "id": "e34-1",
                     "title": "Episodio 1: Ruido",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Thin_Walls_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e34-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1728,12 +1677,12 @@
             "id": 35,
             "title": "Salaryman's Blues",
             "author": "Office Worker",
-            "image": "https://image.pollinations.ai/prompt/Tired_Salaryman_Train_Anime",
+            "image": "/assets/covers/cover_35.jpg",
             "episodes": [
                 {
                     "id": "e35-1",
                     "title": "Episodio 1: Lunes",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Office_Desk_Pile_Paper",
+                    "thumbnail": "/assets/episodes/thumb_e35-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1772,12 +1721,12 @@
             "id": 36,
             "title": "Winter Echoes",
             "author": "Snowfall",
-            "image": "https://image.pollinations.ai/prompt/Snowy_Park_Bench_Anime",
+            "image": "/assets/covers/cover_36.jpg",
             "episodes": [
                 {
                     "id": "e36-1",
                     "title": "Episodio 1: Primera Nevada",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Scarf_Anime_Girl",
+                    "thumbnail": "/assets/episodes/thumb_e36-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1821,17 +1770,17 @@
             "id": 37,
             "title": "University Days",
             "author": "Campus Life",
-            "image": "https://image.pollinations.ai/prompt/University_Campus_Anime_Spring",
+            "image": "/assets/covers/cover_37.jpg",
             "episodes": [
                 {
                     "id": "e37-1",
                     "title": "Episodio 1: Novatos",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Lecture_Hall_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e37-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Cherry_Blossoms_School"
+                            "content": "/assets/blocks/block_e37-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -1870,12 +1819,12 @@
             "id": 38,
             "title": "Emergency Ward",
             "author": "Medic",
-            "image": "https://image.pollinations.ai/prompt/Hospital_Corridor_Night_Anime",
+            "image": "/assets/covers/cover_38.jpg",
             "episodes": [
                 {
                     "id": "e38-1",
                     "title": "Episodio 1: Guardia Nocturna",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Surgery_Light_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e38-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1914,12 +1863,12 @@
             "id": 39,
             "title": "The Old Bookstore",
             "author": "Bookworm",
-            "image": "https://image.pollinations.ai/prompt/Old_Library_Dusty_Books_Anime",
+            "image": "/assets/covers/cover_39.jpg",
             "episodes": [
                 {
                     "id": "e39-1",
                     "title": "Episodio 1: Libros Raros",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Reading_By_Window_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e39-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -1963,17 +1912,17 @@
             "id": 40,
             "title": "Family Portrait",
             "author": "Genealogy",
-            "image": "https://image.pollinations.ai/prompt/Family_Dinner_Anime_Tension",
+            "image": "/assets/covers/cover_40.jpg",
             "episodes": [
                 {
                     "id": "e40-1",
                     "title": "Episodio 1: La Cena",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Broken_Picture_Frame_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e40-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Empty_Chair_Dinner"
+                            "content": "/assets/blocks/block_e40-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -2009,17 +1958,17 @@
             ]
         }
     ],
-      "Terror / Misterio / Psicológico": [
+    "Terror / Misterio / Psicológico": [
         {
             "id": 41,
             "title": "The Dollhouse",
             "author": "Creepy Crafts",
-            "image": "https://image.pollinations.ai/prompt/Creepy_Porcelain_Doll_Eye",
+            "image": "/assets/covers/cover_41.jpg",
             "episodes": [
                 {
                     "id": "e41-1",
                     "title": "Episodio 1: Ojos de Cristal",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Dollhouse_Interior_Dark",
+                    "thumbnail": "/assets/episodes/thumb_e41-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2063,17 +2012,17 @@
             "id": 42,
             "title": "Echoes in the Mirror",
             "author": "Reflections",
-            "image": "https://image.pollinations.ai/prompt/Cracked_Mirror_Reflection_Anime",
+            "image": "/assets/covers/cover_42.jpg",
             "episodes": [
                 {
                     "id": "e42-1",
                     "title": "Episodio 1: El Otro Yo",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Dark_Silhouette_Mirror",
+                    "thumbnail": "/assets/episodes/thumb_e42-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Bathroom_Mirror_Steam"
+                            "content": "/assets/blocks/block_e42-1_b1.jpg"
                         },
                         {
                             "id": "b2",
@@ -2112,12 +2061,12 @@
             "id": 43,
             "title": "The Silent Village",
             "author": "Ghost Town",
-            "image": "https://image.pollinations.ai/prompt/Foggy_Village_Anime_Horror",
+            "image": "/assets/covers/cover_43.jpg",
             "episodes": [
                 {
                     "id": "e43-1",
                     "title": "Episodio 1: Niebla",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Empty_Street_Fog_Anime",
+                    "thumbnail": "/assets/episodes/thumb_e43-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2161,12 +2110,12 @@
             "id": 44,
             "title": "Red Strings",
             "author": "Fate",
-            "image": "https://image.pollinations.ai/prompt/Red_String_Fate_Horror",
+            "image": "/assets/covers/cover_44.jpg",
             "episodes": [
                 {
                     "id": "e44-1",
                     "title": "Episodio 1: Marionetas",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Hands_Tied_Red_Rope",
+                    "thumbnail": "/assets/episodes/thumb_e44-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2205,12 +2154,12 @@
             "id": 45,
             "title": "Night Shift at 7-Eleven",
             "author": "Clerk",
-            "image": "https://image.pollinations.ai/prompt/Convenience_Store_Night_Horror",
+            "image": "/assets/covers/cover_45.jpg",
             "episodes": [
                 {
                     "id": "e45-1",
                     "title": "Episodio 1: El Cliente",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Flickering_Lights_Store",
+                    "thumbnail": "/assets/episodes/thumb_e45-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2249,12 +2198,12 @@
             "id": 46,
             "title": "The Last Train",
             "author": "Commuter",
-            "image": "https://image.pollinations.ai/prompt/Empty_Subway_Car_Horror",
+            "image": "/assets/covers/cover_46.jpg",
             "episodes": [
                 {
                     "id": "e46-1",
                     "title": "Episodio 1: Estación Fantasma",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Train_Tunnel_Dark",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Estacin_Fantasma_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2298,17 +2247,17 @@
             "id": 47,
             "title": "Inside My Head",
             "author": "Psychosis",
-            "image": "https://image.pollinations.ai/prompt/Anime_Abstract_Mind_Horror",
+            "image": "https://image.pollinations.ai/prompt/Inside_My_Head_Anime_Cover",
             "episodes": [
                 {
                     "id": "e47-1",
                     "title": "Episodio 1: Voces",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Whispering_Shadows_Anime",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Voces_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Distorted_Face_Scream"
+                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Voces_b1_Anime_Detail"
                         },
                         {
                             "id": "b2",
@@ -2347,12 +2296,12 @@
             "id": 48,
             "title": "The Cursed App",
             "author": "Tech Horror",
-            "image": "https://image.pollinations.ai/prompt/Glitch_Phone_Screen_Anime",
+            "image": "https://image.pollinations.ai/prompt/The_Cursed_App_Anime_Cover",
             "episodes": [
                 {
                     "id": "e48-1",
                     "title": "Episodio 1: Descarga",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Smartphone_Dark_Room",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Episodio_1_Descarga_Anime_Scene",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2391,12 +2340,12 @@
             "id": 49,
             "title": "Room 404",
             "author": "Hotelier",
-            "image": "https://image.pollinations.ai/prompt/Hotel_Hallway_The_Shining_Anime",
+            "image": "/assets/covers/cover_49.jpg",
             "episodes": [
                 {
                     "id": "e49-1",
                     "title": "Episodio 1: Check-in",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Key_Card_Blood",
+                    "thumbnail": "/assets/episodes/thumb_e49-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
@@ -2440,17 +2389,17 @@
             "id": 50,
             "title": "Stalker",
             "author": "Observer",
-            "image": "https://image.pollinations.ai/prompt/Peeking_Through_Blinds_Anime",
+            "image": "/assets/covers/cover_50.jpg",
             "episodes": [
                 {
                     "id": "e50-1",
                     "title": "Episodio 1: Fotos",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Polaroid_Photos_Wall",
+                    "thumbnail": "/assets/episodes/thumb_e50-1.jpg",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Camera_Lens_Reflection"
+                            "content": "/assets/blocks/block_e50-1_b1.jpg"
                         },
                         {
                             "id": "b2",
