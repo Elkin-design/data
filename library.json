@@ -1532,9 +1532,483 @@
             ]
         }
     ],
-  "Drama / Romance / Slice of Life":[
-    
-  ],
+"Drama / Romance / Slice of Life": [
+        {
+            "id": 31,
+            "title": "Broken Strings",
+            "author": "Melody Heart",
+            "image": "https://image.pollinations.ai/prompt/Broken_Violin_Anime",
+            "episodes": [
+                {
+                    "id": "e31-1",
+                    "title": "Episodio 1: El Concierto Final",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Concert_Hall_Empty_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "La cuerda se rompió, y con ella, mi carrera."
+                        }
+                    ]
+                },
+                {
+                    "id": "e31-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e31-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e31-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e31-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Midnight Cafe",
+            "author": "Night Owl",
+            "image": "https://image.pollinations.ai/prompt/Midnight_Diner_Anime",
+            "episodes": [
+                {
+                    "id": "e32-1",
+                    "title": "Episodio 1: Clientes Habituales",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Coffee_Steam_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Neon_Sign_Cafe_Rain"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Aquí todos tienen una historia que olvidar."
+                        }
+                    ]
+                },
+                {
+                    "id": "e32-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e32-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e32-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e32-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Fading Colors",
+            "author": "Art Soul",
+            "image": "https://image.pollinations.ai/prompt/Artist_Studio_Anime_Sad",
+            "episodes": [
+                {
+                    "id": "e33-1",
+                    "title": "Episodio 1: Gris",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Monochrome_Painting_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Desde que te fuiste, no puedo ver los colores."
+                        }
+                    ]
+                },
+                {
+                    "id": "e33-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e33-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e33-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e33-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "title": "The Apartment Next Door",
+            "author": "City Living",
+            "image": "https://image.pollinations.ai/prompt/Apartment_Balcony_Anime",
+            "episodes": [
+                {
+                    "id": "e34-1",
+                    "title": "Episodio 1: Ruido",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Thin_Walls_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Mi vecino pone música jazz a las 3 AM. Creo que me estoy enamorando."
+                        }
+                    ]
+                },
+                {
+                    "id": "e34-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e34-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e34-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e34-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Salaryman's Blues",
+            "author": "Office Worker",
+            "image": "https://image.pollinations.ai/prompt/Tired_Salaryman_Train_Anime",
+            "episodes": [
+                {
+                    "id": "e35-1",
+                    "title": "Episodio 1: Lunes",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Office_Desk_Pile_Paper",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "¿Es esto todo lo que hay en la vida? Trabajar, dormir, repetir."
+                        }
+                    ]
+                },
+                {
+                    "id": "e35-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e35-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e35-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e35-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Winter Echoes",
+            "author": "Snowfall",
+            "image": "https://image.pollinations.ai/prompt/Snowy_Park_Bench_Anime",
+            "episodes": [
+                {
+                    "id": "e36-1",
+                    "title": "Episodio 1: Primera Nevada",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Scarf_Anime_Girl",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Hace frío, pero tu recuerdo me mantiene cálido."
+                        }
+                    ]
+                },
+                {
+                    "id": "e36-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e36-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e36-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e36-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "title": "University Days",
+            "author": "Campus Life",
+            "image": "https://image.pollinations.ai/prompt/University_Campus_Anime_Spring",
+            "episodes": [
+                {
+                    "id": "e37-1",
+                    "title": "Episodio 1: Novatos",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Lecture_Hall_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Cherry_Blossoms_School"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Pensé que la universidad sería libertad, pero es un caos."
+                        }
+                    ]
+                },
+                {
+                    "id": "e37-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e37-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e37-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e37-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Emergency Ward",
+            "author": "Medic",
+            "image": "https://image.pollinations.ai/prompt/Hospital_Corridor_Night_Anime",
+            "episodes": [
+                {
+                    "id": "e38-1",
+                    "title": "Episodio 1: Guardia Nocturna",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Surgery_Light_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "En la sala de emergencias, cada segundo cuenta."
+                        }
+                    ]
+                },
+                {
+                    "id": "e38-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e38-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e38-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e38-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "title": "The Old Bookstore",
+            "author": "Bookworm",
+            "image": "https://image.pollinations.ai/prompt/Old_Library_Dusty_Books_Anime",
+            "episodes": [
+                {
+                    "id": "e39-1",
+                    "title": "Episodio 1: Libros Raros",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Reading_By_Window_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Hay historias que no quieren ser leídas."
+                        }
+                    ]
+                },
+                {
+                    "id": "e39-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e39-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e39-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e39-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Family Portrait",
+            "author": "Genealogy",
+            "image": "https://image.pollinations.ai/prompt/Family_Dinner_Anime_Tension",
+            "episodes": [
+                {
+                    "id": "e40-1",
+                    "title": "Episodio 1: La Cena",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Broken_Picture_Frame_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Empty_Chair_Dinner"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Esa silla vacía grita más fuerte que cualquiera de nosotros."
+                        }
+                    ]
+                },
+                {
+                    "id": "e40-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e40-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e40-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e40-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        }
+    ],
   "Terror / Misterio / Psicológico":[
     
   ]
