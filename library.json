@@ -579,43 +579,482 @@
         }
     ],
   "Romance / Escolar / Slice of Life": [
-    {
-      "id": 7,
-      "title": "The Secret of the Blue Crystal",
-      "author": "Sophia Bennett",
-      "image": "https://image.pollinations.ai/prompt/"
-    },
-    {
-      "id": 8,
-      "title": "The Last Guardian",
-      "author": "Ethan Carter",
-      "image": "https://image.pollinations.ai/prompt/"
-    },
-    {
-      "id": 9,
-      "title": "Echoes of the Past",
-      "author": "Olivia Davis",
-      "image": "https://image.pollinations.ai/prompt/"
-    },
-    {
-      "id": 10,
-      "title": "The Crimson Crown",
-      "author": "Noah Evans",
-      "image": "https://image.pollinations.ai/prompt/"
-    },
-    {
-      "id": 11,
-      "title": "Whispers of the Wind",
-      "author": "Ava Foster",
-      "image": "https://image.pollinations.ai/prompt/"
-    },
-    {
-      "id": 12,
-      "title": "The Lost City",
-      "author": "Liam Green",
-      "image": "https://image.pollinations.ai/prompt/"
-    }
-  ],
+        {
+            "id": 11,
+            "title": "The Secret of the Blue Crystal",
+            "author": "Sophia Bennett",
+            "image": "https://image.pollinations.ai/prompt/Blue_Crystal_Anime",
+            "episodes": [
+                {
+                    "id": "e11-1",
+                    "title": "Episodio 1: Un encuentro fortuito",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Anime_School_Corridor",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Nunca pensé que chocar contigo cambiaría mi destino."
+                        }
+                    ]
+                },
+                {
+                    "id": "e11-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e11-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e11-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e11-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Amor bajo la Lluvia",
+            "author": "Elena R.",
+            "image": "https://image.pollinations.ai/prompt/Anime_Couple_Under_Rain",
+            "episodes": [
+                {
+                    "id": "e12-1",
+                    "title": "Episodio 1: El Paraguas",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Red_Umbrella_Rain_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Rainy_Bus_Stop_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Olvidé mi paraguas otra vez... pero él estaba ahí."
+                        }
+                    ]
+                },
+                {
+                    "id": "e12-2",
+                    "title": "Episodio 2: Café caliente",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e12-3",
+                    "title": "Episodio 3: Secretos",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e12-4",
+                    "title": "Episodio 4: La carta",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e12-5",
+                    "title": "Episodio 5: Confesión",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Mi Vecino es un Idol",
+            "author": "K-Pop Fan",
+            "image": "https://image.pollinations.ai/prompt/Kpop_Idol_Anime_Boy",
+            "episodes": [
+                {
+                    "id": "e13-1",
+                    "title": "Episodio 1: La Mudanza",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Moving_Boxes_Apartment_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "¿Quién es ese chico con mascarilla y gafas de sol?"
+                        }
+                    ]
+                },
+                {
+                    "id": "e13-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e13-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e13-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e13-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Café de Gatos y Libros",
+            "author": "Mina S.",
+            "image": "https://image.pollinations.ai/prompt/Anime_Cat_Cafe_Cozy",
+            "episodes": [
+                {
+                    "id": "e14-1",
+                    "title": "Episodio 1: Aroma a Café",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Latte_Art_Cat_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Cozy_Cafe_Interior_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a 'Whiskers & Words'. Aquí el tiempo se detiene."
+                        }
+                    ]
+                },
+                {
+                    "id": "e14-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e14-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e14-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e14-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "La Presidenta del Consejo",
+            "author": "School Life",
+            "image": "https://image.pollinations.ai/prompt/Anime_Student_Council_President",
+            "episodes": [
+                {
+                    "id": "e15-1",
+                    "title": "Episodio 1: Reglas estrictas",
+                    "thumbnail": "https://image.pollinations.ai/prompt/School_Council_Room",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Tu falda es 2cm muy corta. Detención."
+                        }
+                    ]
+                },
+                {
+                    "id": "e15-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e15-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e15-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e15-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Verano Eterno",
+            "author": "Summer Vibe",
+            "image": "https://image.pollinations.ai/prompt/Anime_Summer_Beach",
+            "episodes": [
+                {
+                    "id": "e16-1",
+                    "title": "Episodio 1: Las Vacaciones",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Train_By_The_Sea_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Prometimos volver a esta playa cada año."
+                        }
+                    ]
+                },
+                {
+                    "id": "e16-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e16-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e16-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e16-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Mi Doble Vida",
+            "author": "Secret Identity",
+            "image": "https://image.pollinations.ai/prompt/Anime_Girl_Glasses_Transformation",
+            "episodes": [
+                {
+                    "id": "e17-1",
+                    "title": "Episodio 1: Nadie lo sabe",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Streaming_Setup_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "En la escuela soy invisible. En internet, soy una estrella."
+                        }
+                    ]
+                },
+                {
+                    "id": "e17-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e17-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e17-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e17-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Corazones de Papel",
+            "author": "Origami L.",
+            "image": "https://image.pollinations.ai/prompt/Origami_Heart_Anime",
+            "episodes": [
+                {
+                    "id": "e18-1",
+                    "title": "Episodio 1: La nota",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Love_Letter_Locker_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/School_Lockers_Anime"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Encontré esto en mi casillero... ¿quién lo puso ahí?"
+                        }
+                    ]
+                },
+                {
+                    "id": "e18-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e18-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e18-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e18-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "El Chico de la Ventana",
+            "author": "Window Gazer",
+            "image": "https://image.pollinations.ai/prompt/Anime_Boy_Looking_Out_Window",
+            "episodes": [
+                {
+                    "id": "e19-1",
+                    "title": "Episodio 1: Siempre mirando",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Classroom_Window_Sunset_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Siempre está mirando al cielo. Me pregunto qué ve."
+                        }
+                    ]
+                },
+                {
+                    "id": "e19-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e19-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e19-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e19-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Melodía Discreta",
+            "author": "Piano Key",
+            "image": "https://image.pollinations.ai/prompt/Anime_Girl_Playing_Violin",
+            "episodes": [
+                {
+                    "id": "e20-1",
+                    "title": "Episodio 1: La sala de música",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Music_Room_Piano_Anime",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Escuché una melodía triste proveniente del viejo edificio."
+                        }
+                    ]
+                },
+                {
+                    "id": "e20-2",
+                    "title": "Episodio 2",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e20-3",
+                    "title": "Episodio 3",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e20-4",
+                    "title": "Episodio 4",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e20-5",
+                    "title": "Episodio 5",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        }
+    ],
   "Acción / Fantasía / Histórico":[
     
   ],
