@@ -1,5 +1,5 @@
 {
-  "Accion / Fantasia / Aventura": [
+      "Accion / Fantasia / Aventura": [
         {
             "id": 1,
             "title": "Tower of God",
@@ -7,7 +7,7 @@
             "image": "https://image.pollinations.ai/prompt/Tower_of_God",
             "episodes": [
                 {
-                    "id": "e1",
+                    "id": "e1-1",
                     "title": "Episodio 1: La Torre te llama",
                     "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Door",
                     "blocks": [
@@ -43,108 +43,28 @@
                     ]
                 },
                 {
-                    "id": "e2",
+                    "id": "e1-2",
                     "title": "Episodio 2: La Prueba de Headon",
                     "thumbnail": "https://image.pollinations.ai/prompt/Tower_of_God_Eel",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "text",
-                            "content": "Bienvenido al piso de prueba. Para pasar, debes romper esa esfera negra.",
-                            "style": {
-                                "fontWeight": "bold"
-                            }
-                        },
-                        {
-                            "id": "b2",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Giant_Steel_Eel_Monster_Anime"
-                        },
-                        {
-                            "id": "b3",
-                            "type": "ad",
-                            "content": "anuncio",
-                            "duration": 5
-                        },
-                        {
-                            "id": "b4",
-                            "type": "text",
-                            "content": "Pero cuidado... la Anguila de Acero no te dejará pasar fácilmente."
-                        }
-                    ]
+                    "blocks": []
                 },
                 {
-                    "id": "e3",
+                    "id": "e1-3",
                     "title": "Episodio 3: Marzo Negro",
                     "thumbnail": "https://image.pollinations.ai/prompt/Black_March_Sword",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Anime_Princess_Yuri_Jahad"
-                        },
-                        {
-                            "id": "b2",
-                            "type": "text",
-                            "content": "'Toma esto, chico. Es una de las 13 Series de los Meses. Marzo Negro.'",
-                            "style": {
-                                "color": "#fb7185"
-                            }
-                        },
-                        {
-                            "id": "b3",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                        }
-                    ]
+                    "blocks": []
                 },
                 {
-                    "id": "e4",
+                    "id": "e1-4",
                     "title": "Episodio 4: La Corona",
                     "thumbnail": "https://image.pollinations.ai/prompt/Crown_Game_Throne",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "text",
-                            "content": "El juego de la corona ha comenzado. Si te sientas en el trono, serás el objetivo de todos."
-                        },
-                        {
-                            "id": "b2",
-                            "type": "ad",
-                            "content": "anuncio",
-                            "duration": 8
-                        },
-                        {
-                            "id": "b3",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Anime_Battle_Arena_Throne"
-                        }
-                    ]
+                    "blocks": []
                 },
                 {
-                    "id": "e5",
+                    "id": "e1-5",
                     "title": "Episodio 5: Rachel",
                     "thumbnail": "https://image.pollinations.ai/prompt/Rachel_Tower_of_God_Stars",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Dark_Starry_Sky_Anime"
-                        },
-                        {
-                            "id": "b2",
-                            "type": "text",
-                            "content": "Yo solo quería ver las estrellas... Bam, ¿por qué me seguiste?",
-                            "style": {
-                                "fontFamily": "serif"
-                            }
-                        },
-                        {
-                            "id": "b3",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
-                        }
-                    ]
+                    "blocks": []
                 }
             ]
         },
@@ -155,7 +75,7 @@
             "image": "https://image.pollinations.ai/prompt/The_God_of_High_School",
             "episodes": [
                 {
-                    "id": "e1",
+                    "id": "e2-1",
                     "title": "Episodio 1: La Invitación",
                     "thumbnail": "https://image.pollinations.ai/prompt/GOH_Invitation",
                     "blocks": [
@@ -167,42 +87,30 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Una invitación para el torneo más grande del mundo. ¿El premio? Cualquier deseo que pidas."
+                            "content": "Una invitación para el torneo más grande del mundo."
                         }
                     ]
                 },
                 {
-                    "id": "e2",
+                    "id": "e2-2",
                     "title": "Episodio 2: Taekwondo",
-                    "thumbnail": "https://image.pollinations.ai/prompt/Jin_Mori_Kick",
-                    "blocks": [
-                        {
-                            "id": "b1",
-                            "type": "text",
-                            "content": "Jin Mori usa Re-Taekwondo. Su velocidad es inigualable."
-                        },
-                        {
-                            "id": "b2",
-                            "type": "ad",
-                            "content": "anuncio",
-                            "duration": 5
-                        }
-                    ]
+                    "thumbnail": "",
+                    "blocks": []
                 },
                 {
-                    "id": "e3",
+                    "id": "e2-3",
                     "title": "Episodio 3: Pelea Callejera",
                     "thumbnail": "",
                     "blocks": []
                 },
                 {
-                    "id": "e4",
+                    "id": "e2-4",
                     "title": "Episodio 4: El Payaso",
                     "thumbnail": "",
                     "blocks": []
                 },
                 {
-                    "id": "e5",
+                    "id": "e2-5",
                     "title": "Episodio 5: Charyeok",
                     "thumbnail": "",
                     "blocks": []
@@ -216,7 +124,7 @@
             "image": "https://image.pollinations.ai/prompt/Noblesse",
             "episodes": [
                 {
-                    "id": "e1",
+                    "id": "e3-1",
                     "title": "Episodio 1: El Despertar",
                     "thumbnail": "https://image.pollinations.ai/prompt/Cadis_Etrama_Di_Raizel",
                     "blocks": [
@@ -228,34 +136,391 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Después de 820 años de sueño... la Noblesse ha despertado.",
-                            "style": {
-                                "color": "#ef4444"
-                            }
+                            "content": "Después de 820 años de sueño... la Noblesse ha despertado."
                         }
                     ]
                 },
                 {
-                    "id": "e2",
+                    "id": "e3-2",
                     "title": "Episodio 2: La Escuela",
                     "thumbnail": "",
                     "blocks": []
                 },
                 {
-                    "id": "e3",
+                    "id": "e3-3",
                     "title": "Episodio 3: Ramen",
                     "thumbnail": "",
                     "blocks": []
                 },
                 {
-                    "id": "e4",
+                    "id": "e3-4",
                     "title": "Episodio 4: M-21",
                     "thumbnail": "",
                     "blocks": []
                 },
                 {
-                    "id": "e5",
+                    "id": "e3-5",
                     "title": "Episodio 5: Unión",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Solo Leveling",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Solo_Leveling",
+            "episodes": [
+                {
+                    "id": "e4-1",
+                    "title": "Episodio 1: Cazador Rango E",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Weak",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Knife"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Soy Sung Jin-Woo, el cazador más débil de toda la humanidad."
+                        },
+                        {
+                            "id": "b3",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        }
+                    ]
+                },
+                {
+                    "id": "e4-2",
+                    "title": "Episodio 2: La Mazmorra Doble",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Double_Dungeon_Gate",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "text",
+                            "content": "Nadie sabía que esa puerta escondía una pesadilla..."
+                        },
+                        {
+                            "id": "b2",
+                            "type": "ad",
+                            "content": "anuncio",
+                            "duration": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "e4-3",
+                    "title": "Episodio 3: La Estatua de Dios",
+                    "thumbnail": "https://image.pollinations.ai/prompt/God_Statue_Solo_Leveling",
+                    "blocks": []
+                },
+                {
+                    "id": "e4-4",
+                    "title": "Episodio 4: El Sistema",
+                    "thumbnail": "https://image.pollinations.ai/prompt/System_Screen_Anime",
+                    "blocks": []
+                },
+                {
+                    "id": "e4-5",
+                    "title": "Episodio 5: Despertar",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Sung_Jin_Woo_Wake_Up",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "DICE",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/DICE",
+            "episodes": [
+                {
+                    "id": "e5-1",
+                    "title": "Episodio 1: El Dado que lo cambia todo",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Golden_Dice_Rolling",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Si pudieras reiniciar tu vida con un dado... ¿lo tirarías?"
+                        }
+                    ]
+                },
+                {
+                    "id": "e5-2",
+                    "title": "Episodio 2: Dongtae",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5-3",
+                    "title": "Episodio 3: X",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5-4",
+                    "title": "Episodio 4: Misiones",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e5-5",
+                    "title": "Episodio 5: PVP",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Regresión / Segunda Oportunidad",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Regresión_/_Segunda_Oportunidad",
+            "episodes": [
+                {
+                    "id": "e6-1",
+                    "title": "Episodio 1: El Final es el Comienzo",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Time_Rewind_Clock",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Hero_Dying_Battlefield"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "He muerto... espera, ¿por qué estoy en mi cama de hace 10 años?"
+                        }
+                    ]
+                },
+                {
+                    "id": "e6-2",
+                    "title": "Episodio 2: Conocimiento Futuro",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e6-3",
+                    "title": "Episodio 3: Primera Inversión",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e6-4",
+                    "title": "Episodio 4: Salvando al amigo",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e6-5",
+                    "title": "Episodio 5: La Torre Oculta",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Mitología Urbana",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Mitología_Urbana",
+            "episodes": [
+                {
+                    "id": "e7-1",
+                    "title": "Episodio 1: Dioses en el Metro",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Subway_Neon_God",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El metro de las 11 PM no es para humanos."
+                        }
+                    ]
+                },
+                {
+                    "id": "e7-2",
+                    "title": "Episodio 2: Zeus en un bar",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e7-3",
+                    "title": "Episodio 3: Valkirias motorizadas",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e7-4",
+                    "title": "Episodio 4: El contrato de Hades",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e7-5",
+                    "title": "Episodio 5: Ragnarok Digital",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Caza de Recompensas Sci-Fi",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Caza_de_Recompensas_Sci-Fi",
+            "episodes": [
+                {
+                    "id": "e8-1",
+                    "title": "Episodio 1: Objetivo Localizado",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Cyberpunk_Bounty_Scanner",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Cyberpunk_City_Night"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "500,000 creditos por su cabeza. Vivo o muerto."
+                        }
+                    ]
+                },
+                {
+                    "id": "e8-2",
+                    "title": "Episodio 2: Persecución",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e8-3",
+                    "title": "Episodio 3: Androides",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e8-4",
+                    "title": "Episodio 4: Hackeo Neural",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e8-5",
+                    "title": "Episodio 5: La Traición",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Invocadores",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Invocadores",
+            "episodes": [
+                {
+                    "id": "e9-1",
+                    "title": "Episodio 1: El Primer Pacto",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Summoning_Circle_Magic",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "¿Aceptas ofrecer tu alma a cambio de poder infinito?"
+                        }
+                    ]
+                },
+                {
+                    "id": "e9-2",
+                    "title": "Episodio 2: Espíritu de Fuego",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e9-3",
+                    "title": "Episodio 3: Academia de Invocadores",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e9-4",
+                    "title": "Episodio 4: El Grimorio Perdido",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e9-5",
+                    "title": "Episodio 5: Duelo de Bestias",
+                    "thumbnail": "",
+                    "blocks": []
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Murim / Artes Marciales",
+            "author": "@Lab",
+            "image": "https://image.pollinations.ai/prompt/Murim_/_Artes_Marciales",
+            "episodes": [
+                {
+                    "id": "e10-1",
+                    "title": "Episodio 1: Cultivación Qi",
+                    "thumbnail": "https://image.pollinations.ai/prompt/Murim_Meditation_Waterfall",
+                    "blocks": [
+                        {
+                            "id": "b1",
+                            "type": "image",
+                            "content": "https://image.pollinations.ai/prompt/Chinese_Martial_Arts_Mountain"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "El camino del artista marcial comienza con un solo respiro."
+                        }
+                    ]
+                },
+                {
+                    "id": "e10-2",
+                    "title": "Episodio 2: La Secta del Dragón",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e10-3",
+                    "title": "Episodio 3: Torneo de Discípulos",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e10-4",
+                    "title": "Episodio 4: Técnica Prohibida",
+                    "thumbnail": "",
+                    "blocks": []
+                },
+                {
+                    "id": "e10-5",
+                    "title": "Episodio 5: Ascensión",
                     "thumbnail": "",
                     "blocks": []
                 }
