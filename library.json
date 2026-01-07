@@ -29,8 +29,11 @@
                         },
                         {
                             "id": "b3",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e1-1_b3.jpg"
+                            "type": "text",
+                            "content": "/assets/blocks/block_e1-1_b3.jpg",
+                            "style": {
+                                "textAlign": "left"
+                            }
                         },
                         {
                             "id": "b4",
@@ -130,8 +133,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Episodio_1_El_Despertar_b1_Anime_Detail"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -179,8 +182,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e4-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -189,8 +192,11 @@
                         },
                         {
                             "id": "b3",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "text",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                            "style": {
+                                "textAlign": "left"
+                            }
                         }
                     ]
                 },
@@ -206,9 +212,11 @@
                         },
                         {
                             "id": "b2",
-                            "type": "ad",
+                            "type": "text",
                             "content": "anuncio",
-                            "duration": 5
+                            "style": {
+                                "textAlign": "left"
+                            }
                         }
                     ]
                 },
@@ -294,8 +302,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e6-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -392,8 +400,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e8-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -490,8 +498,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e10-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -590,8 +598,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e12-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -688,8 +696,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Aroma_a_Caf_b1_Anime_Detail"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -737,8 +745,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Tu falda es 2cm muy corta. Detención."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -830,8 +838,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "En la escuela soy invisible. En internet, soy una estrella."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -874,8 +882,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e18-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -923,8 +931,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Siempre está mirando al cielo. Me pregunto qué ve."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1067,8 +1075,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e22-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -1165,8 +1173,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Vago por la oscuridad, buscando una luz que se apagó hace mucho."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1209,8 +1217,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Mi vida pertenece a la corona. Mi espada es su escudo."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1302,8 +1310,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e27-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -1351,8 +1359,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Nadie ha pisado estas tierras en mil años."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1444,8 +1452,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Invierno_Nuclear_b1_Anime_Detail"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -1544,8 +1552,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Clientes_Habituales_b1_Anime_Detail"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -1642,8 +1650,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Mi vecino pone música jazz a las 3 AM. Creo que me estoy enamorando."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1686,8 +1694,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "¿Es esto todo lo que hay en la vida? Trabajar, dormir, repetir."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1779,8 +1787,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e37-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -1828,8 +1836,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "En la sala de emergencias, cada segundo cuenta."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -1921,8 +1929,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e40-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -2021,8 +2029,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e42-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -2119,8 +2127,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "El hilo rojo no une a los amantes. Nos une a... Ellos."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -2163,8 +2171,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Entró hace 3 horas. No se ha movido del pasillo 4."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -2256,8 +2264,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "https://image.pollinations.ai/prompt/Episodio_1_Voces_b1_Anime_Detail"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
@@ -2305,8 +2313,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "text",
-                            "content": "Acepté los términos y condiciones sin leer. Gran error."
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         }
                     ]
                 },
@@ -2398,8 +2406,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "image",
-                            "content": "/assets/blocks/block_e50-1_b1.jpg"
+                            "type": "video",
+                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
                         },
                         {
                             "id": "b2",
