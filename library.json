@@ -19,28 +19,31 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "¿Qué es lo que deseas? ¿Dinero y riquezas? ¿Orgullo y honor? ¿Autoridad y poder? ¿Venganza? O quizás... ¿algo más trascendental?",
+                            "content": "Bienvenido a \"Tower of God\". Esta es una historia que cambiará tu perspectiva.",
                             "style": {
                                 "textAlign": "center",
                                 "fontSize": "1.1rem",
-                                "fontStyle": "italic",
-                                "color": "#cbd5e1"
+                                "fontStyle": "italic"
                             }
                         },
                         {
                             "id": "b3",
                             "type": "text",
-                            "content": "/assets/blocks/block_e1-1_b3.jpg",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
                             "style": {
-                                "textAlign": "left"
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
                             }
                         },
                         {
                             "id": "b4",
                             "type": "text",
-                            "content": "Todo lo que buscas está aquí arriba. Solo tienes que subir.",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
                             "style": {
-                                "textAlign": "center"
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
                             }
                         }
                     ]
@@ -254,7 +257,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Una invitación para el torneo más grande del mundo."
+                            "content": "Bienvenido a \"The God of High School\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -467,7 +495,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Después de 820 años de sueño... la Noblesse ha despertado."
+                            "content": "Bienvenido a \"Noblesse\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -680,14 +733,31 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Soy Sung Jin-Woo, el cazador más débil de toda la humanidad."
+                            "content": "Bienvenido a \"Solo Leveling\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
                         },
                         {
                             "id": "b3",
                             "type": "text",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
                             "style": {
-                                "textAlign": "left"
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
                             }
                         }
                     ]
@@ -700,14 +770,41 @@
                         {
                             "id": "b1",
                             "type": "text",
-                            "content": "Nadie sabía que esa puerta escondía una pesadilla..."
+                            "content": "La trama se intensifica en este segundo episodio de \"Solo Leveling\".",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
                         },
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "anuncio",
+                            "content": "Nuevos desafíos aparecen en el horizonte.",
                             "style": {
-                                "textAlign": "left"
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los lazos entre los personajes comienzan a fortalecerse.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Un giro inesperado cambia todo lo que creían saber.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
                             }
                         }
                     ]
@@ -874,7 +971,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Si pudieras reiniciar tu vida con un dado... ¿lo tirarías?"
+                            "content": "Bienvenido a \"DICE\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -1087,7 +1209,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "He muerto... espera, ¿por qué estoy en mi cama de hace 10 años?"
+                            "content": "Bienvenido a \"Regresión / Segunda Oportunidad\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -1300,7 +1447,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El metro de las 11 PM no es para humanos."
+                            "content": "Bienvenido a \"Mitología Urbana\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -1513,7 +1685,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "500,000 creditos por su cabeza. Vivo o muerto."
+                            "content": "Bienvenido a \"Caza de Recompensas Sci-Fi\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -1726,7 +1923,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "¿Aceptas ofrecer tu alma a cambio de poder infinito?"
+                            "content": "Bienvenido a \"Invocadores\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -1939,7 +2161,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El camino del artista marcial comienza con un solo respiro."
+                            "content": "Bienvenido a \"Murim / Artes Marciales\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -2154,7 +2401,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Nunca pensé que chocar contigo cambiaría mi destino."
+                            "content": "Bienvenido a \"The Secret of the Blue Crystal\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -2367,7 +2639,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Olvidé mi paraguas otra vez... pero él estaba ahí."
+                            "content": "Bienvenido a \"Amor bajo la Lluvia\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -2580,7 +2877,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "¿Quién es ese chico con mascarilla y gafas de sol?"
+                            "content": "Bienvenido a \"Mi Vecino es un Idol\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -2793,7 +3115,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Bienvenido a 'Whiskers & Words'. Aquí el tiempo se detiene."
+                            "content": "Bienvenido a \"Café de Gatos y Libros\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -3002,6 +3349,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"La Presidenta del Consejo\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -3214,7 +3591,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Prometimos volver a esta playa cada año."
+                            "content": "Bienvenido a \"Verano Eterno\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -3423,6 +3825,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Mi Doble Vida\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -3635,7 +4067,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Encontré esto en mi casillero... ¿quién lo puso ahí?"
+                            "content": "Bienvenido a \"Corazones de Papel\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -3844,6 +4301,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"El Chico de la Ventana\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -4056,7 +4543,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Escuché una melodía triste proveniente del viejo edificio."
+                            "content": "Bienvenido a \"Melodía Discreta\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -4271,7 +4783,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El día que el cielo se tiñó de sangre, supe que la paz había terminado."
+                            "content": "Bienvenido a \"The Red General\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -4484,7 +5021,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Solo aquel con un alma pura podrá desenvainarla."
+                            "content": "Bienvenido a \"Spirit Sword\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -4697,7 +5259,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El intercambio equivalente es una mentira."
+                            "content": "Bienvenido a \"The Alchemist's Empire\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -4906,6 +5493,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Samurai of the Void\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -5114,6 +5731,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Imperial Guard\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -5326,7 +5973,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Cuando el dragón despierte, el mundo arderá."
+                            "content": "Bienvenido a \"The Dragon's Scroll\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -5539,7 +6211,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El sol ha muerto. Ahora reinamos nosotros."
+                            "content": "Bienvenido a \"Knight of the Eclipse\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -5748,6 +6445,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Chronicles of the Old Kingdom\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -5960,7 +6687,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Los espíritus están inquietos esta noche."
+                            "content": "Bienvenido a \"The Shaman Queen\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -6173,7 +6925,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El frío no es lo único que mata aquí."
+                            "content": "Bienvenido a \"Blade of the North\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -6388,7 +7165,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "La cuerda se rompió, y con ella, mi carrera."
+                            "content": "Bienvenido a \"Broken Strings\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -6601,7 +7403,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Aquí todos tienen una historia que olvidar."
+                            "content": "Bienvenido a \"Midnight Cafe\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -6814,7 +7641,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Desde que te fuiste, no puedo ver los colores."
+                            "content": "Bienvenido a \"Fading Colors\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -7023,6 +7875,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"The Apartment Next Door\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -7231,6 +8113,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Salaryman's Blues\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -7443,7 +8355,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Hace frío, pero tu recuerdo me mantiene cálido."
+                            "content": "Bienvenido a \"Winter Echoes\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -7656,7 +8593,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Pensé que la universidad sería libertad, pero es un caos."
+                            "content": "Bienvenido a \"University Days\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -7865,6 +8827,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Emergency Ward\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -8077,7 +9069,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Hay historias que no quieren ser leídas."
+                            "content": "Bienvenido a \"The Old Bookstore\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -8290,7 +9307,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Esa silla vacía grita más fuerte que cualquiera de nosotros."
+                            "content": "Bienvenido a \"Family Portrait\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -8505,7 +9547,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Se mueven cuando no las miras. Estoy seguro."
+                            "content": "Bienvenido a \"The Dollhouse\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -8718,7 +9785,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Mi reflejo parpadeó antes que yo."
+                            "content": "Bienvenido a \"Echoes in the Mirror\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -8931,7 +10023,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "No hay pájaros, no hay viento. Solo silencio."
+                            "content": "Bienvenido a \"The Silent Village\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -9140,6 +10257,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Red Strings\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -9348,6 +10495,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"Night Shift at 7-Eleven\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -9560,7 +10737,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Esta parada no está en el mapa."
+                            "content": "Bienvenido a \"The Last Train\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -9773,7 +10975,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "No soy yo quien piensa estos pensamientos."
+                            "content": "Bienvenido a \"Inside My Head\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -9982,6 +11209,36 @@
                             "id": "b1",
                             "type": "video",
                             "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                        },
+                        {
+                            "id": "b2",
+                            "type": "text",
+                            "content": "Bienvenido a \"The Cursed App\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -10194,7 +11451,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "El recepcionista dijo que no teníamos habitación 404."
+                            "content": "Bienvenido a \"Room 404\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
@@ -10407,7 +11689,32 @@
                         {
                             "id": "b2",
                             "type": "text",
-                            "content": "Tengo fotos mías durmiendo. Yo vivo sola."
+                            "content": "Bienvenido a \"Stalker\". Esta es una historia que cambiará tu perspectiva.",
+                            "style": {
+                                "textAlign": "center",
+                                "fontSize": "1.1rem",
+                                "fontStyle": "italic"
+                            }
+                        },
+                        {
+                            "id": "b3",
+                            "type": "text",
+                            "content": "Los personajes principales están a punto de embarcarse en una aventura inolvidable.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
+                        },
+                        {
+                            "id": "b4",
+                            "type": "text",
+                            "content": "Cada decisión que tomen marcará el curso de su futuro.",
+                            "style": {
+                                "textAlign": "left",
+                                "fontSize": "1rem",
+                                "fontStyle": "normal"
+                            }
                         }
                     ]
                 },
