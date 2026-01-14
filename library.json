@@ -13,8 +13,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_1.jpg"
                         },
                         {
                             "id": "b2",
@@ -251,8 +251,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_2.jpg"
                         },
                         {
                             "id": "b2",
@@ -489,8 +489,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_3.jpg"
                         },
                         {
                             "id": "b2",
@@ -727,8 +727,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_4.jpg"
                         },
                         {
                             "id": "b2",
@@ -965,8 +965,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_5.jpg"
                         },
                         {
                             "id": "b2",
@@ -1203,8 +1203,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_6.jpg"
                         },
                         {
                             "id": "b2",
@@ -1441,8 +1441,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_7.jpg"
                         },
                         {
                             "id": "b2",
@@ -1679,8 +1679,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_8.jpg"
                         },
                         {
                             "id": "b2",
@@ -1917,8 +1917,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_9.jpg"
                         },
                         {
                             "id": "b2",
@@ -2155,8 +2155,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_10.jpg"
                         },
                         {
                             "id": "b2",
@@ -2395,8 +2395,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_11.jpg"
                         },
                         {
                             "id": "b2",
@@ -2633,8 +2633,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_12.jpg"
                         },
                         {
                             "id": "b2",
@@ -2871,8 +2871,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_13.jpg"
                         },
                         {
                             "id": "b2",
@@ -3109,8 +3109,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_14.jpg"
                         },
                         {
                             "id": "b2",
@@ -3347,8 +3347,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_15.jpg"
                         },
                         {
                             "id": "b2",
@@ -3585,8 +3585,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_16.jpg"
                         },
                         {
                             "id": "b2",
@@ -3823,8 +3823,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_17.jpg"
                         },
                         {
                             "id": "b2",
@@ -4061,8 +4061,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_18.jpg"
                         },
                         {
                             "id": "b2",
@@ -4299,8 +4299,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_19.jpg"
                         },
                         {
                             "id": "b2",
@@ -4537,8 +4537,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_20.jpg"
                         },
                         {
                             "id": "b2",
@@ -4777,8 +4777,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_21.jpg"
                         },
                         {
                             "id": "b2",
@@ -5015,8 +5015,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_22.jpg"
                         },
                         {
                             "id": "b2",
@@ -5253,8 +5253,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_23.jpg"
                         },
                         {
                             "id": "b2",
@@ -5491,8 +5491,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_24.jpg"
                         },
                         {
                             "id": "b2",
@@ -5729,8 +5729,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_25.jpg"
                         },
                         {
                             "id": "b2",
@@ -5967,8 +5967,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_26.jpg"
                         },
                         {
                             "id": "b2",
@@ -6205,8 +6205,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_27.jpg"
                         },
                         {
                             "id": "b2",
@@ -6443,8 +6443,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_28.jpg"
                         },
                         {
                             "id": "b2",
@@ -6681,8 +6681,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_29.jpg"
                         },
                         {
                             "id": "b2",
@@ -6919,8 +6919,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_30.jpg"
                         },
                         {
                             "id": "b2",
@@ -7159,8 +7159,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_31.jpg"
                         },
                         {
                             "id": "b2",
@@ -7397,8 +7397,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_32.jpg"
                         },
                         {
                             "id": "b2",
@@ -7635,8 +7635,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_33.jpg"
                         },
                         {
                             "id": "b2",
@@ -7873,8 +7873,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_34.jpg"
                         },
                         {
                             "id": "b2",
@@ -8111,8 +8111,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_35.jpg"
                         },
                         {
                             "id": "b2",
@@ -8349,8 +8349,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_36.jpg"
                         },
                         {
                             "id": "b2",
@@ -8587,8 +8587,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_37.jpg"
                         },
                         {
                             "id": "b2",
@@ -8825,8 +8825,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_38.jpg"
                         },
                         {
                             "id": "b2",
@@ -9063,8 +9063,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_39.jpg"
                         },
                         {
                             "id": "b2",
@@ -9301,8 +9301,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_40.jpg"
                         },
                         {
                             "id": "b2",
@@ -9541,8 +9541,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_41.jpg"
                         },
                         {
                             "id": "b2",
@@ -9779,8 +9779,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_42.jpg"
                         },
                         {
                             "id": "b2",
@@ -10017,8 +10017,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_43.jpg"
                         },
                         {
                             "id": "b2",
@@ -10255,8 +10255,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_44.jpg"
                         },
                         {
                             "id": "b2",
@@ -10493,8 +10493,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_45.jpg"
                         },
                         {
                             "id": "b2",
@@ -10731,8 +10731,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_46.jpg"
                         },
                         {
                             "id": "b2",
@@ -10969,8 +10969,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_47.jpg"
                         },
                         {
                             "id": "b2",
@@ -11207,8 +11207,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_48.jpg"
                         },
                         {
                             "id": "b2",
@@ -11445,8 +11445,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_49.jpg"
                         },
                         {
                             "id": "b2",
@@ -11683,8 +11683,8 @@
                     "blocks": [
                         {
                             "id": "b1",
-                            "type": "video",
-                            "content": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+                            "type": "cinematic",
+                            "content": "/assets/covers/cover_50.jpg"
                         },
                         {
                             "id": "b2",
