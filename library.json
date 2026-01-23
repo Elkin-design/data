@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Tower of God",
             "author": "@Lab",
-            "image": "/assets/covers/cover_11.webp",
+            "image": "/assets/covers/cover_1.webp",
             "episodes": [
                 {
                     "id": "e1-1",
@@ -272,7 +272,7 @@
             "id": 2,
             "title": "The God of High School",
             "author": "@Lab",
-            "image": "/assets/covers/cover_22.webp",
+            "image": "/assets/covers/cover_2.webp",
             "episodes": [
                 {
                     "id": "e2-1",
