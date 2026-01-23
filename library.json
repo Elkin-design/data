@@ -4,17 +4,17 @@
             "id": 1,
             "title": "Tower of God",
             "author": "@Lab",
-            "image": "/assets/covers/cover_1.jpg",
+            "image": "/assets/covers/cover_1.webp",
             "episodes": [
                 {
                     "id": "e1-1",
                     "title": "Episodio 1: La Torre te llama",
-                    "thumbnail": "/assets/episodes/thumb_e1-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e1-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_1.jpg"
+                            "content": "/assets/covers/cover_1.webp"
                         },
                         {
                             "id": "b2",
@@ -25,6 +25,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e1-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -51,7 +57,7 @@
                 {
                     "id": "e1-2",
                     "title": "Episodio 2: La Prueba de Headon",
-                    "thumbnail": "/assets/episodes/thumb_e1-2.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e1-2.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -62,6 +68,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e1-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -98,7 +110,7 @@
                 {
                     "id": "e1-3",
                     "title": "Episodio 3: Marzo Negro",
-                    "thumbnail": "/assets/episodes/thumb_e1-3.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e1-3.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -109,6 +121,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e1-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -145,7 +163,7 @@
                 {
                     "id": "e1-4",
                     "title": "Episodio 4: La Corona",
-                    "thumbnail": "/assets/episodes/thumb_e1-4.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e1-4.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -156,6 +174,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e1-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -192,7 +216,7 @@
                 {
                     "id": "e1-5",
                     "title": "Episodio 5: Rachel",
-                    "thumbnail": "/assets/episodes/thumb_e1-5.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e1-5.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -203,6 +227,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e1-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -242,7 +272,7 @@
             "id": 2,
             "title": "The God of High School",
             "author": "@Lab",
-            "image": "/assets/covers/cover_2.jpg",
+            "image": "/assets/covers/cover_2.webp",
             "episodes": [
                 {
                     "id": "e2-1",
@@ -252,7 +282,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_2.jpg"
+                            "content": "/assets/covers/cover_2.webp"
                         },
                         {
                             "id": "b2",
@@ -263,6 +293,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e2-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -300,6 +336,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e2-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -349,6 +391,12 @@
                             }
                         },
                         {
+                            "id": "ad-e2-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El torneo nacional comienza y las apuestas se elevan drásticamente Mori enfrenta a Park Ilpyo, quien usa el poder de las nueve colas La batalla revela que Mori posee un poder oculto mucho mayor los aliados se vuelven extraños en la confusión",
@@ -394,6 +442,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e2-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -443,6 +497,12 @@
                             }
                         },
                         {
+                            "id": "ad-e2-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "Mori Jin revela ser el legendario Sun Wukong, el Rey Mono su poder completo sacude los cimientos de la realidad los dioses y demonios observan mientras el rey regresa correr ya no es una opción para nadie aquí",
@@ -480,7 +540,7 @@
             "id": 3,
             "title": "Noblesse",
             "author": "@Lab",
-            "image": "/assets/covers/cover_3.jpg",
+            "image": "/assets/covers/cover_3.webp",
             "episodes": [
                 {
                     "id": "e3-1",
@@ -490,7 +550,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_3.jpg"
+                            "content": "/assets/covers/cover_3.webp"
                         },
                         {
                             "id": "b2",
@@ -501,6 +561,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e3-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -538,6 +604,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e3-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -587,6 +659,12 @@
                             }
                         },
                         {
+                            "id": "ad-e3-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "Los Nobles de Lukedonia descubren que Raizel ha despertado envían a Regis y Seira para investigar la situación El conflicto entre tradición y el nuevo mundo comienza El sonido del caos llena cada rincón del espacio",
@@ -632,6 +710,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e3-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -681,6 +765,12 @@
                             }
                         },
                         {
+                            "id": "ad-e3-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "La batalla final entre Raizel y los líderes de la Unión comienza su poder completo como Noblesse se desata sin restricciones El cielo se oscurece ante la magnificencia de su autoridad los aliados se vuelven extraños en la confusión",
@@ -718,17 +808,17 @@
             "id": 4,
             "title": "Solo Leveling",
             "author": "@Lab",
-            "image": "/assets/covers/cover_4.jpg",
+            "image": "/assets/covers/cover_4.webp",
             "episodes": [
                 {
                     "id": "e4-1",
                     "title": "Episodio 1: Cazador Rango E",
-                    "thumbnail": "/assets/episodes/thumb_e4-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e4-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_4.jpg"
+                            "content": "/assets/covers/cover_4.webp"
                         },
                         {
                             "id": "b2",
@@ -739,6 +829,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e4-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -765,7 +861,7 @@
                 {
                     "id": "e4-2",
                     "title": "Episodio 2: La Mazmorra Doble",
-                    "thumbnail": "/assets/episodes/thumb_e4-2.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e4-2.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -776,6 +872,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e4-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -812,7 +914,7 @@
                 {
                     "id": "e4-3",
                     "title": "Episodio 3: La Estatua de Dios",
-                    "thumbnail": "/assets/episodes/thumb_e4-3.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e4-3.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -823,6 +925,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e4-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -859,7 +967,7 @@
                 {
                     "id": "e4-4",
                     "title": "Episodio 4: El Sistema",
-                    "thumbnail": "/assets/episodes/thumb_e4-4.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e4-4.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -870,6 +978,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e4-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -906,7 +1020,7 @@
                 {
                     "id": "e4-5",
                     "title": "Episodio 5: Despertar",
-                    "thumbnail": "/assets/episodes/thumb_e4-5.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e4-5.webp",
                     "blocks": [
                         {
                             "id": "b1",
@@ -917,6 +1031,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e4-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -956,17 +1076,17 @@
             "id": 5,
             "title": "DICE",
             "author": "@Lab",
-            "image": "/assets/covers/cover_5.jpg",
+            "image": "/assets/covers/cover_5.webp",
             "episodes": [
                 {
                     "id": "e5-1",
                     "title": "Episodio 1: El Dado que lo cambia todo",
-                    "thumbnail": "/assets/episodes/thumb_e5-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e5-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_5.jpg"
+                            "content": "/assets/covers/cover_5.webp"
                         },
                         {
                             "id": "b2",
@@ -977,6 +1097,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e5-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -1014,6 +1140,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e5-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1063,6 +1195,12 @@
                             }
                         },
                         {
+                            "id": "ad-e5-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de DICE continúa con Episodio 3: X nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -1108,6 +1246,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e5-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1157,6 +1301,12 @@
                             }
                         },
                         {
+                            "id": "ad-e5-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de DICE continúa con Episodio 5: PVP nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -1194,17 +1344,17 @@
             "id": 6,
             "title": "Regresión / Segunda Oportunidad",
             "author": "@Lab",
-            "image": "/assets/covers/cover_6.jpg",
+            "image": "/assets/covers/cover_6.webp",
             "episodes": [
                 {
                     "id": "e6-1",
                     "title": "Episodio 1: El Final es el Comienzo",
-                    "thumbnail": "/assets/episodes/thumb_e6-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e6-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_6.jpg"
+                            "content": "/assets/covers/cover_6.webp"
                         },
                         {
                             "id": "b2",
@@ -1215,6 +1365,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e6-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -1252,6 +1408,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e6-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1301,6 +1463,12 @@
                             }
                         },
                         {
+                            "id": "ad-e6-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Regresión / Segunda Oportunidad continúa con Episodio 3: Primera Inversión nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El miedo se transforma en una determinación fría",
@@ -1346,6 +1514,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e6-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1395,6 +1569,12 @@
                             }
                         },
                         {
+                            "id": "ad-e6-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Regresión / Segunda Oportunidad continúa con Episodio 5: La Torre Oculta nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -1432,17 +1612,17 @@
             "id": 7,
             "title": "Mitología Urbana",
             "author": "@Lab",
-            "image": "/assets/covers/cover_7.jpg",
+            "image": "/assets/covers/cover_7.webp",
             "episodes": [
                 {
                     "id": "e7-1",
                     "title": "Episodio 1: Dioses en el Metro",
-                    "thumbnail": "/assets/episodes/thumb_e7-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e7-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_7.jpg"
+                            "content": "/assets/covers/cover_7.webp"
                         },
                         {
                             "id": "b2",
@@ -1453,6 +1633,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e7-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -1490,6 +1676,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e7-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1539,6 +1731,12 @@
                             }
                         },
                         {
+                            "id": "ad-e7-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mitología Urbana continúa con Episodio 3: Valkirias motorizadas nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -1584,6 +1782,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e7-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1633,6 +1837,12 @@
                             }
                         },
                         {
+                            "id": "ad-e7-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mitología Urbana continúa con Episodio 5: Ragnarok Digital nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -1670,17 +1880,17 @@
             "id": 8,
             "title": "Caza de Recompensas Sci-Fi",
             "author": "@Lab",
-            "image": "/assets/covers/cover_8.jpg",
+            "image": "/assets/covers/cover_8.webp",
             "episodes": [
                 {
                     "id": "e8-1",
                     "title": "Episodio 1: Objetivo Localizado",
-                    "thumbnail": "/assets/episodes/thumb_e8-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e8-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_8.jpg"
+                            "content": "/assets/covers/cover_8.webp"
                         },
                         {
                             "id": "b2",
@@ -1691,6 +1901,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e8-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -1728,6 +1944,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e8-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1777,6 +1999,12 @@
                             }
                         },
                         {
+                            "id": "ad-e8-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Caza de Recompensas Sci-Fi continúa con Episodio 3: Androides nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -1822,6 +2050,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e8-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -1871,6 +2105,12 @@
                             }
                         },
                         {
+                            "id": "ad-e8-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Caza de Recompensas Sci-Fi continúa con Episodio 5: La Traición nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -1908,17 +2148,17 @@
             "id": 9,
             "title": "Invocadores",
             "author": "@Lab",
-            "image": "/assets/covers/cover_9.jpg",
+            "image": "/assets/covers/cover_9.webp",
             "episodes": [
                 {
                     "id": "e9-1",
                     "title": "Episodio 1: El Primer Pacto",
-                    "thumbnail": "/assets/episodes/thumb_e9-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e9-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_9.jpg"
+                            "content": "/assets/covers/cover_9.webp"
                         },
                         {
                             "id": "b2",
@@ -1929,6 +2169,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e9-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -1966,6 +2212,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e9-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2015,6 +2267,12 @@
                             }
                         },
                         {
+                            "id": "ad-e9-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Invocadores continúa con Episodio 3: Academia de Invocadores nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -2060,6 +2318,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e9-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2109,6 +2373,12 @@
                             }
                         },
                         {
+                            "id": "ad-e9-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Invocadores continúa con Episodio 5: Duelo de Bestias nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta correr ya no es una opción para nadie aquí",
@@ -2146,17 +2416,17 @@
             "id": 10,
             "title": "Murim / Artes Marciales",
             "author": "@Lab",
-            "image": "/assets/covers/cover_10.jpg",
+            "image": "/assets/covers/cover_10.webp",
             "episodes": [
                 {
                     "id": "e10-1",
                     "title": "Episodio 1: Cultivación Qi",
-                    "thumbnail": "/assets/episodes/thumb_e10-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e10-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_10.jpg"
+                            "content": "/assets/covers/cover_10.webp"
                         },
                         {
                             "id": "b2",
@@ -2167,6 +2437,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e10-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -2204,6 +2480,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e10-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2253,6 +2535,12 @@
                             }
                         },
                         {
+                            "id": "ad-e10-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Murim / Artes Marciales continúa con Episodio 3: Torneo de Discípulos nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -2298,6 +2586,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e10-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2347,6 +2641,12 @@
                             }
                         },
                         {
+                            "id": "ad-e10-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Murim / Artes Marciales continúa con Episodio 5: Ascensión nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El miedo se transforma en una determinación fría",
@@ -2386,17 +2686,17 @@
             "id": 11,
             "title": "The Secret of the Blue Crystal",
             "author": "Sophia Bennett",
-            "image": "/assets/covers/cover_11.jpg",
+            "image": "/assets/covers/cover_11.webp",
             "episodes": [
                 {
                     "id": "e11-1",
                     "title": "Episodio 1: Un encuentro fortuito",
-                    "thumbnail": "/assets/episodes/thumb_e11-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e11-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_11.jpg"
+                            "content": "/assets/covers/cover_11.webp"
                         },
                         {
                             "id": "b2",
@@ -2407,6 +2707,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e11-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -2444,6 +2750,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e11-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2493,6 +2805,12 @@
                             }
                         },
                         {
+                            "id": "ad-e11-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Secret of the Blue Crystal continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -2538,6 +2856,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e11-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2587,6 +2911,12 @@
                             }
                         },
                         {
+                            "id": "ad-e11-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Secret of the Blue Crystal continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El miedo se transforma en una determinación fría",
@@ -2624,17 +2954,17 @@
             "id": 12,
             "title": "Amor bajo la Lluvia",
             "author": "Elena R.",
-            "image": "/assets/covers/cover_12.jpg",
+            "image": "/assets/covers/cover_12.webp",
             "episodes": [
                 {
                     "id": "e12-1",
                     "title": "Episodio 1: El Paraguas",
-                    "thumbnail": "/assets/episodes/thumb_e12-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e12-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_12.jpg"
+                            "content": "/assets/covers/cover_12.webp"
                         },
                         {
                             "id": "b2",
@@ -2645,6 +2975,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e12-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -2682,6 +3018,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e12-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2731,6 +3073,12 @@
                             }
                         },
                         {
+                            "id": "ad-e12-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Amor bajo la Lluvia continúa con Episodio 3: Secretos nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -2776,6 +3124,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e12-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2825,6 +3179,12 @@
                             }
                         },
                         {
+                            "id": "ad-e12-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Amor bajo la Lluvia continúa con Episodio 5: Confesión nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -2862,17 +3222,17 @@
             "id": 13,
             "title": "Mi Vecino es un Idol",
             "author": "K-Pop Fan",
-            "image": "/assets/covers/cover_13.jpg",
+            "image": "/assets/covers/cover_13.webp",
             "episodes": [
                 {
                     "id": "e13-1",
                     "title": "Episodio 1: La Mudanza",
-                    "thumbnail": "/assets/episodes/thumb_e13-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e13-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_13.jpg"
+                            "content": "/assets/covers/cover_13.webp"
                         },
                         {
                             "id": "b2",
@@ -2883,6 +3243,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e13-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -2920,6 +3286,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e13-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -2969,6 +3341,12 @@
                             }
                         },
                         {
+                            "id": "ad-e13-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mi Vecino es un Idol continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -3014,6 +3392,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e13-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3063,6 +3447,12 @@
                             }
                         },
                         {
+                            "id": "ad-e13-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mi Vecino es un Idol continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -3100,17 +3490,17 @@
             "id": 14,
             "title": "Café de Gatos y Libros",
             "author": "Mina S.",
-            "image": "/assets/covers/cover_14.jpg",
+            "image": "/assets/covers/cover_14.webp",
             "episodes": [
                 {
                     "id": "e14-1",
                     "title": "Episodio 1: Aroma a Café",
-                    "thumbnail": "/assets/episodes/thumb_e14-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e14-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_14.jpg"
+                            "content": "/assets/covers/cover_14.webp"
                         },
                         {
                             "id": "b2",
@@ -3121,6 +3511,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e14-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -3158,6 +3554,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e14-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3207,6 +3609,12 @@
                             }
                         },
                         {
+                            "id": "ad-e14-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Café de Gatos y Libros continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -3252,6 +3660,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e14-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3301,6 +3715,12 @@
                             }
                         },
                         {
+                            "id": "ad-e14-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Café de Gatos y Libros continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -3338,7 +3758,7 @@
             "id": 15,
             "title": "La Presidenta del Consejo",
             "author": "School Life",
-            "image": "/assets/covers/cover_15.jpg",
+            "image": "/assets/covers/cover_15.webp",
             "episodes": [
                 {
                     "id": "e15-1",
@@ -3348,7 +3768,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_15.jpg"
+                            "content": "/assets/covers/cover_15.webp"
                         },
                         {
                             "id": "b2",
@@ -3359,6 +3779,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e15-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -3396,6 +3822,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e15-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3445,6 +3877,12 @@
                             }
                         },
                         {
+                            "id": "ad-e15-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de La Presidenta del Consejo continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta correr ya no es una opción para nadie aquí",
@@ -3490,6 +3928,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e15-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3539,6 +3983,12 @@
                             }
                         },
                         {
+                            "id": "ad-e15-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de La Presidenta del Consejo continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -3576,7 +4026,7 @@
             "id": 16,
             "title": "Verano Eterno",
             "author": "Summer Vibe",
-            "image": "/assets/covers/cover_16.jpg",
+            "image": "/assets/covers/cover_16.webp",
             "episodes": [
                 {
                     "id": "e16-1",
@@ -3586,7 +4036,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_16.jpg"
+                            "content": "/assets/covers/cover_16.webp"
                         },
                         {
                             "id": "b2",
@@ -3597,6 +4047,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e16-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -3634,6 +4090,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e16-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3683,6 +4145,12 @@
                             }
                         },
                         {
+                            "id": "ad-e16-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Verano Eterno continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -3728,6 +4196,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e16-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3777,6 +4251,12 @@
                             }
                         },
                         {
+                            "id": "ad-e16-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Verano Eterno continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -3814,17 +4294,17 @@
             "id": 17,
             "title": "Mi Doble Vida",
             "author": "Secret Identity",
-            "image": "/assets/covers/cover_17.jpg",
+            "image": "/assets/covers/cover_17.webp",
             "episodes": [
                 {
                     "id": "e17-1",
                     "title": "Episodio 1: Nadie lo sabe",
-                    "thumbnail": "/assets/episodes/thumb_e17-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e17-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_17.jpg"
+                            "content": "/assets/covers/cover_17.webp"
                         },
                         {
                             "id": "b2",
@@ -3835,6 +4315,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e17-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -3872,6 +4358,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e17-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -3921,6 +4413,12 @@
                             }
                         },
                         {
+                            "id": "ad-e17-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mi Doble Vida continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta correr ya no es una opción para nadie aquí",
@@ -3966,6 +4464,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e17-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4015,6 +4519,12 @@
                             }
                         },
                         {
+                            "id": "ad-e17-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Mi Doble Vida continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -4052,17 +4562,17 @@
             "id": 18,
             "title": "Corazones de Papel",
             "author": "Origami L.",
-            "image": "/assets/covers/cover_18.jpg",
+            "image": "/assets/covers/cover_18.webp",
             "episodes": [
                 {
                     "id": "e18-1",
                     "title": "Episodio 1: La nota",
-                    "thumbnail": "/assets/episodes/thumb_e18-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e18-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_18.jpg"
+                            "content": "/assets/covers/cover_18.webp"
                         },
                         {
                             "id": "b2",
@@ -4073,6 +4583,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e18-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -4110,6 +4626,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e18-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4159,6 +4681,12 @@
                             }
                         },
                         {
+                            "id": "ad-e18-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Corazones de Papel continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -4204,6 +4732,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e18-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4253,6 +4787,12 @@
                             }
                         },
                         {
+                            "id": "ad-e18-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Corazones de Papel continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -4290,17 +4830,17 @@
             "id": 19,
             "title": "El Chico de la Ventana",
             "author": "Window Gazer",
-            "image": "/assets/covers/cover_19.jpg",
+            "image": "/assets/covers/cover_19.webp",
             "episodes": [
                 {
                     "id": "e19-1",
                     "title": "Episodio 1: Siempre mirando",
-                    "thumbnail": "/assets/episodes/thumb_e19-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e19-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_19.jpg"
+                            "content": "/assets/covers/cover_19.webp"
                         },
                         {
                             "id": "b2",
@@ -4311,6 +4851,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e19-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -4348,6 +4894,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e19-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4397,6 +4949,12 @@
                             }
                         },
                         {
+                            "id": "ad-e19-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de El Chico de la Ventana continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -4442,6 +5000,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e19-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4491,6 +5055,12 @@
                             }
                         },
                         {
+                            "id": "ad-e19-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de El Chico de la Ventana continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -4528,17 +5098,17 @@
             "id": 20,
             "title": "Melodía Discreta",
             "author": "Piano Key",
-            "image": "/assets/covers/cover_20.jpg",
+            "image": "/assets/covers/cover_20.webp",
             "episodes": [
                 {
                     "id": "e20-1",
                     "title": "Episodio 1: La sala de música",
-                    "thumbnail": "/assets/episodes/thumb_e20-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e20-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_20.jpg"
+                            "content": "/assets/covers/cover_20.webp"
                         },
                         {
                             "id": "b2",
@@ -4549,6 +5119,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e20-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -4586,6 +5162,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e20-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4635,6 +5217,12 @@
                             }
                         },
                         {
+                            "id": "ad-e20-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Melodía Discreta continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -4680,6 +5268,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e20-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4729,6 +5323,12 @@
                             }
                         },
                         {
+                            "id": "ad-e20-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Melodía Discreta continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -4768,17 +5368,17 @@
             "id": 21,
             "title": "The Red General",
             "author": "War Historian",
-            "image": "/assets/covers/cover_21.jpg",
+            "image": "/assets/covers/cover_21.webp",
             "episodes": [
                 {
                     "id": "e21-1",
                     "title": "Episodio 1: La Caída del Imperio",
-                    "thumbnail": "/assets/episodes/thumb_e21-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e21-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_21.jpg"
+                            "content": "/assets/covers/cover_21.webp"
                         },
                         {
                             "id": "b2",
@@ -4789,6 +5389,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e21-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -4826,6 +5432,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e21-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4875,6 +5487,12 @@
                             }
                         },
                         {
+                            "id": "ad-e21-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Red General continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -4920,6 +5538,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e21-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -4969,6 +5593,12 @@
                             }
                         },
                         {
+                            "id": "ad-e21-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Red General continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -5006,17 +5636,17 @@
             "id": 22,
             "title": "Spirit Sword",
             "author": "Blade Master",
-            "image": "/assets/covers/cover_22.jpg",
+            "image": "/assets/covers/cover_22.webp",
             "episodes": [
                 {
                     "id": "e22-1",
                     "title": "Episodio 1: El Despertar de la Espada",
-                    "thumbnail": "/assets/episodes/thumb_e22-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e22-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_22.jpg"
+                            "content": "/assets/covers/cover_22.webp"
                         },
                         {
                             "id": "b2",
@@ -5027,6 +5657,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e22-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -5064,6 +5700,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e22-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5113,6 +5755,12 @@
                             }
                         },
                         {
+                            "id": "ad-e22-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Spirit Sword continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -5158,6 +5806,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e22-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5207,6 +5861,12 @@
                             }
                         },
                         {
+                            "id": "ad-e22-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Spirit Sword continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta correr ya no es una opción para nadie aquí",
@@ -5244,17 +5904,17 @@
             "id": 23,
             "title": "The Alchemist's Empire",
             "author": "Gold Maker",
-            "image": "/assets/covers/cover_23.jpg",
+            "image": "/assets/covers/cover_23.webp",
             "episodes": [
                 {
                     "id": "e23-1",
                     "title": "Episodio 1: Transmutación",
-                    "thumbnail": "/assets/episodes/thumb_e23-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e23-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_23.jpg"
+                            "content": "/assets/covers/cover_23.webp"
                         },
                         {
                             "id": "b2",
@@ -5265,6 +5925,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e23-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -5302,6 +5968,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e23-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5351,6 +6023,12 @@
                             }
                         },
                         {
+                            "id": "ad-e23-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Alchemist's Empire continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -5396,6 +6074,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e23-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5445,6 +6129,12 @@
                             }
                         },
                         {
+                            "id": "ad-e23-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Alchemist's Empire continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -5482,17 +6172,17 @@
             "id": 24,
             "title": "Samurai of the Void",
             "author": "Ronin X",
-            "image": "/assets/covers/cover_24.jpg",
+            "image": "/assets/covers/cover_24.webp",
             "episodes": [
                 {
                     "id": "e24-1",
                     "title": "Episodio 1: Sin Señor",
-                    "thumbnail": "/assets/episodes/thumb_e24-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e24-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_24.jpg"
+                            "content": "/assets/covers/cover_24.webp"
                         },
                         {
                             "id": "b2",
@@ -5503,6 +6193,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e24-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -5540,6 +6236,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e24-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5589,6 +6291,12 @@
                             }
                         },
                         {
+                            "id": "ad-e24-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Samurai of the Void continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -5634,6 +6342,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e24-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5683,6 +6397,12 @@
                             }
                         },
                         {
+                            "id": "ad-e24-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Samurai of the Void continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -5720,17 +6440,17 @@
             "id": 25,
             "title": "Imperial Guard",
             "author": "Loyalty First",
-            "image": "/assets/covers/cover_25.jpg",
+            "image": "/assets/covers/cover_25.webp",
             "episodes": [
                 {
                     "id": "e25-1",
                     "title": "Episodio 1: Proteger al Rey",
-                    "thumbnail": "/assets/episodes/thumb_e25-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e25-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_25.jpg"
+                            "content": "/assets/covers/cover_25.webp"
                         },
                         {
                             "id": "b2",
@@ -5741,6 +6461,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e25-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -5778,6 +6504,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e25-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5827,6 +6559,12 @@
                             }
                         },
                         {
+                            "id": "ad-e25-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Imperial Guard continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -5872,6 +6610,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e25-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -5921,6 +6665,12 @@
                             }
                         },
                         {
+                            "id": "ad-e25-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Imperial Guard continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -5958,17 +6708,17 @@
             "id": 26,
             "title": "The Dragon's Scroll",
             "author": "Myth Keeper",
-            "image": "/assets/covers/cover_26.jpg",
+            "image": "/assets/covers/cover_26.webp",
             "episodes": [
                 {
                     "id": "e26-1",
                     "title": "Episodio 1: La Profecía",
-                    "thumbnail": "/assets/episodes/thumb_e26-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e26-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_26.jpg"
+                            "content": "/assets/covers/cover_26.webp"
                         },
                         {
                             "id": "b2",
@@ -5979,6 +6729,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e26-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -6016,6 +6772,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e26-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6065,6 +6827,12 @@
                             }
                         },
                         {
+                            "id": "ad-e26-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Dragon's Scroll continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -6110,6 +6878,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e26-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6159,6 +6933,12 @@
                             }
                         },
                         {
+                            "id": "ad-e26-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Dragon's Scroll continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -6196,17 +6976,17 @@
             "id": 27,
             "title": "Knight of the Eclipse",
             "author": "Dark Soul",
-            "image": "/assets/covers/cover_27.jpg",
+            "image": "/assets/covers/cover_27.webp",
             "episodes": [
                 {
                     "id": "e27-1",
                     "title": "Episodio 1: Oscuridad Eterna",
-                    "thumbnail": "/assets/episodes/thumb_e27-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e27-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_27.jpg"
+                            "content": "/assets/covers/cover_27.webp"
                         },
                         {
                             "id": "b2",
@@ -6217,6 +6997,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e27-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -6254,6 +7040,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e27-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6303,6 +7095,12 @@
                             }
                         },
                         {
+                            "id": "ad-e27-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Knight of the Eclipse continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La realidad se fragmenta ante sus ojos incrédulos",
@@ -6348,6 +7146,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e27-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6397,6 +7201,12 @@
                             }
                         },
                         {
+                            "id": "ad-e27-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Knight of the Eclipse continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -6434,17 +7244,17 @@
             "id": 28,
             "title": "Chronicles of the Old Kingdom",
             "author": "Scribe",
-            "image": "/assets/covers/cover_28.jpg",
+            "image": "/assets/covers/cover_28.webp",
             "episodes": [
                 {
                     "id": "e28-1",
                     "title": "Episodio 1: Mapas Olvidados",
-                    "thumbnail": "/assets/episodes/thumb_e28-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e28-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_28.jpg"
+                            "content": "/assets/covers/cover_28.webp"
                         },
                         {
                             "id": "b2",
@@ -6455,6 +7265,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e28-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -6492,6 +7308,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e28-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6541,6 +7363,12 @@
                             }
                         },
                         {
+                            "id": "ad-e28-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Chronicles of the Old Kingdom continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -6586,6 +7414,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e28-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6635,6 +7469,12 @@
                             }
                         },
                         {
+                            "id": "ad-e28-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Chronicles of the Old Kingdom continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -6672,17 +7512,17 @@
             "id": 29,
             "title": "The Shaman Queen",
             "author": "Spirit Walker",
-            "image": "/assets/covers/cover_29.jpg",
+            "image": "/assets/covers/cover_29.webp",
             "episodes": [
                 {
                     "id": "e29-1",
                     "title": "Episodio 1: Convocatoria",
-                    "thumbnail": "/assets/episodes/thumb_e29-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e29-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_29.jpg"
+                            "content": "/assets/covers/cover_29.webp"
                         },
                         {
                             "id": "b2",
@@ -6693,6 +7533,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e29-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -6730,6 +7576,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e29-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6779,6 +7631,12 @@
                             }
                         },
                         {
+                            "id": "ad-e29-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Shaman Queen continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -6824,6 +7682,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e29-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -6873,6 +7737,12 @@
                             }
                         },
                         {
+                            "id": "ad-e29-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Shaman Queen continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La realidad se fragmenta ante sus ojos incrédulos",
@@ -6910,17 +7780,17 @@
             "id": 30,
             "title": "Blade of the North",
             "author": "Winter Warrior",
-            "image": "/assets/covers/cover_30.jpg",
+            "image": "/assets/covers/cover_30.webp",
             "episodes": [
                 {
                     "id": "e30-1",
                     "title": "Episodio 1: Invierno Nuclear",
-                    "thumbnail": "/assets/episodes/thumb_e30-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e30-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_30.jpg"
+                            "content": "/assets/covers/cover_30.webp"
                         },
                         {
                             "id": "b2",
@@ -6931,6 +7801,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e30-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -6968,6 +7844,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e30-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7017,6 +7899,12 @@
                             }
                         },
                         {
+                            "id": "ad-e30-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Blade of the North continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -7062,6 +7950,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e30-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7111,6 +8005,12 @@
                             }
                         },
                         {
+                            "id": "ad-e30-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Blade of the North continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -7150,7 +8050,7 @@
             "id": 31,
             "title": "Broken Strings",
             "author": "Melody Heart",
-            "image": "/assets/covers/cover_31.jpg",
+            "image": "/assets/covers/cover_31.webp",
             "episodes": [
                 {
                     "id": "e31-1",
@@ -7160,7 +8060,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_31.jpg"
+                            "content": "/assets/covers/cover_31.webp"
                         },
                         {
                             "id": "b2",
@@ -7171,6 +8071,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e31-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -7208,6 +8114,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e31-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7257,6 +8169,12 @@
                             }
                         },
                         {
+                            "id": "ad-e31-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Broken Strings continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta cada decisión pesa como una losa de piedra",
@@ -7302,6 +8220,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e31-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7351,6 +8275,12 @@
                             }
                         },
                         {
+                            "id": "ad-e31-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Broken Strings continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La realidad se fragmenta ante sus ojos incrédulos",
@@ -7388,7 +8318,7 @@
             "id": 32,
             "title": "Midnight Cafe",
             "author": "Night Owl",
-            "image": "/assets/covers/cover_32.jpg",
+            "image": "/assets/covers/cover_32.webp",
             "episodes": [
                 {
                     "id": "e32-1",
@@ -7398,7 +8328,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_32.jpg"
+                            "content": "/assets/covers/cover_32.webp"
                         },
                         {
                             "id": "b2",
@@ -7409,6 +8339,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e32-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -7446,6 +8382,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e32-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7495,6 +8437,12 @@
                             }
                         },
                         {
+                            "id": "ad-e32-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Midnight Cafe continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -7540,6 +8488,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e32-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7589,6 +8543,12 @@
                             }
                         },
                         {
+                            "id": "ad-e32-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Midnight Cafe continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -7626,17 +8586,17 @@
             "id": 33,
             "title": "Fading Colors",
             "author": "Art Soul",
-            "image": "/assets/covers/cover_33.jpg",
+            "image": "/assets/covers/cover_33.webp",
             "episodes": [
                 {
                     "id": "e33-1",
                     "title": "Episodio 1: Gris",
-                    "thumbnail": "/assets/episodes/thumb_e33-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e33-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_33.jpg"
+                            "content": "/assets/covers/cover_33.webp"
                         },
                         {
                             "id": "b2",
@@ -7647,6 +8607,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e33-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -7684,6 +8650,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e33-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7733,6 +8705,12 @@
                             }
                         },
                         {
+                            "id": "ad-e33-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Fading Colors continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -7778,6 +8756,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e33-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7827,6 +8811,12 @@
                             }
                         },
                         {
+                            "id": "ad-e33-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Fading Colors continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -7864,17 +8854,17 @@
             "id": 34,
             "title": "The Apartment Next Door",
             "author": "City Living",
-            "image": "/assets/covers/cover_34.jpg",
+            "image": "/assets/covers/cover_34.webp",
             "episodes": [
                 {
                     "id": "e34-1",
                     "title": "Episodio 1: Ruido",
-                    "thumbnail": "/assets/episodes/thumb_e34-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e34-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_34.jpg"
+                            "content": "/assets/covers/cover_34.webp"
                         },
                         {
                             "id": "b2",
@@ -7885,6 +8875,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e34-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -7922,6 +8918,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e34-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -7971,6 +8973,12 @@
                             }
                         },
                         {
+                            "id": "ad-e34-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Apartment Next Door continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -8016,6 +9024,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e34-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8065,6 +9079,12 @@
                             }
                         },
                         {
+                            "id": "ad-e34-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Apartment Next Door continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -8102,17 +9122,17 @@
             "id": 35,
             "title": "Salaryman's Blues",
             "author": "Office Worker",
-            "image": "/assets/covers/cover_35.jpg",
+            "image": "/assets/covers/cover_35.webp",
             "episodes": [
                 {
                     "id": "e35-1",
                     "title": "Episodio 1: Lunes",
-                    "thumbnail": "/assets/episodes/thumb_e35-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e35-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_35.jpg"
+                            "content": "/assets/covers/cover_35.webp"
                         },
                         {
                             "id": "b2",
@@ -8123,6 +9143,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e35-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -8160,6 +9186,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e35-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8209,6 +9241,12 @@
                             }
                         },
                         {
+                            "id": "ad-e35-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Salaryman's Blues continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -8254,6 +9292,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e35-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8303,6 +9347,12 @@
                             }
                         },
                         {
+                            "id": "ad-e35-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Salaryman's Blues continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -8340,17 +9390,17 @@
             "id": 36,
             "title": "Winter Echoes",
             "author": "Snowfall",
-            "image": "/assets/covers/cover_36.jpg",
+            "image": "/assets/covers/cover_36.webp",
             "episodes": [
                 {
                     "id": "e36-1",
                     "title": "Episodio 1: Primera Nevada",
-                    "thumbnail": "/assets/episodes/thumb_e36-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e36-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_36.jpg"
+                            "content": "/assets/covers/cover_36.webp"
                         },
                         {
                             "id": "b2",
@@ -8361,6 +9411,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e36-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -8398,6 +9454,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e36-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8447,6 +9509,12 @@
                             }
                         },
                         {
+                            "id": "ad-e36-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Winter Echoes continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -8492,6 +9560,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e36-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8541,6 +9615,12 @@
                             }
                         },
                         {
+                            "id": "ad-e36-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Winter Echoes continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -8578,17 +9658,17 @@
             "id": 37,
             "title": "University Days",
             "author": "Campus Life",
-            "image": "/assets/covers/cover_37.jpg",
+            "image": "/assets/covers/cover_37.webp",
             "episodes": [
                 {
                     "id": "e37-1",
                     "title": "Episodio 1: Novatos",
-                    "thumbnail": "/assets/episodes/thumb_e37-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e37-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_37.jpg"
+                            "content": "/assets/covers/cover_37.webp"
                         },
                         {
                             "id": "b2",
@@ -8599,6 +9679,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e37-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -8636,6 +9722,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e37-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8685,6 +9777,12 @@
                             }
                         },
                         {
+                            "id": "ad-e37-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de University Days continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -8730,6 +9828,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e37-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8779,6 +9883,12 @@
                             }
                         },
                         {
+                            "id": "ad-e37-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de University Days continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -8816,17 +9926,17 @@
             "id": 38,
             "title": "Emergency Ward",
             "author": "Medic",
-            "image": "/assets/covers/cover_38.jpg",
+            "image": "/assets/covers/cover_38.webp",
             "episodes": [
                 {
                     "id": "e38-1",
                     "title": "Episodio 1: Guardia Nocturna",
-                    "thumbnail": "/assets/episodes/thumb_e38-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e38-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_38.jpg"
+                            "content": "/assets/covers/cover_38.webp"
                         },
                         {
                             "id": "b2",
@@ -8837,6 +9947,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e38-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -8874,6 +9990,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e38-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -8923,6 +10045,12 @@
                             }
                         },
                         {
+                            "id": "ad-e38-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Emergency Ward continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -8968,6 +10096,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e38-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9017,6 +10151,12 @@
                             }
                         },
                         {
+                            "id": "ad-e38-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Emergency Ward continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -9054,17 +10194,17 @@
             "id": 39,
             "title": "The Old Bookstore",
             "author": "Bookworm",
-            "image": "/assets/covers/cover_39.jpg",
+            "image": "/assets/covers/cover_39.webp",
             "episodes": [
                 {
                     "id": "e39-1",
                     "title": "Episodio 1: Libros Raros",
-                    "thumbnail": "/assets/episodes/thumb_e39-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e39-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_39.jpg"
+                            "content": "/assets/covers/cover_39.webp"
                         },
                         {
                             "id": "b2",
@@ -9075,6 +10215,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e39-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -9112,6 +10258,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e39-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9161,6 +10313,12 @@
                             }
                         },
                         {
+                            "id": "ad-e39-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Old Bookstore continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -9206,6 +10364,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e39-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9255,6 +10419,12 @@
                             }
                         },
                         {
+                            "id": "ad-e39-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Old Bookstore continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -9292,17 +10462,17 @@
             "id": 40,
             "title": "Family Portrait",
             "author": "Genealogy",
-            "image": "/assets/covers/cover_40.jpg",
+            "image": "/assets/covers/cover_40.webp",
             "episodes": [
                 {
                     "id": "e40-1",
                     "title": "Episodio 1: La Cena",
-                    "thumbnail": "/assets/episodes/thumb_e40-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e40-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_40.jpg"
+                            "content": "/assets/covers/cover_40.webp"
                         },
                         {
                             "id": "b2",
@@ -9313,6 +10483,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e40-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -9350,6 +10526,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e40-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9399,6 +10581,12 @@
                             }
                         },
                         {
+                            "id": "ad-e40-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Family Portrait continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -9444,6 +10632,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e40-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9493,6 +10687,12 @@
                             }
                         },
                         {
+                            "id": "ad-e40-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Family Portrait continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -9532,17 +10732,17 @@
             "id": 41,
             "title": "The Dollhouse",
             "author": "Creepy Crafts",
-            "image": "/assets/covers/cover_41.jpg",
+            "image": "/assets/covers/cover_41.webp",
             "episodes": [
                 {
                     "id": "e41-1",
                     "title": "Episodio 1: Ojos de Cristal",
-                    "thumbnail": "/assets/episodes/thumb_e41-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e41-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_41.jpg"
+                            "content": "/assets/covers/cover_41.webp"
                         },
                         {
                             "id": "b2",
@@ -9553,6 +10753,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e41-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -9590,6 +10796,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e41-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9639,6 +10851,12 @@
                             }
                         },
                         {
+                            "id": "ad-e41-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Dollhouse continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -9684,6 +10902,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e41-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9733,6 +10957,12 @@
                             }
                         },
                         {
+                            "id": "ad-e41-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Dollhouse continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El miedo se transforma en una determinación fría",
@@ -9770,17 +11000,17 @@
             "id": 42,
             "title": "Echoes in the Mirror",
             "author": "Reflections",
-            "image": "/assets/covers/cover_42.jpg",
+            "image": "/assets/covers/cover_42.webp",
             "episodes": [
                 {
                     "id": "e42-1",
                     "title": "Episodio 1: El Otro Yo",
-                    "thumbnail": "/assets/episodes/thumb_e42-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e42-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_42.jpg"
+                            "content": "/assets/covers/cover_42.webp"
                         },
                         {
                             "id": "b2",
@@ -9791,6 +11021,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e42-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -9828,6 +11064,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e42-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9877,6 +11119,12 @@
                             }
                         },
                         {
+                            "id": "ad-e42-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Echoes in the Mirror continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -9922,6 +11170,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e42-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -9971,6 +11225,12 @@
                             }
                         },
                         {
+                            "id": "ad-e42-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Echoes in the Mirror continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -10008,17 +11268,17 @@
             "id": 43,
             "title": "The Silent Village",
             "author": "Ghost Town",
-            "image": "/assets/covers/cover_43.jpg",
+            "image": "/assets/covers/cover_43.webp",
             "episodes": [
                 {
                     "id": "e43-1",
                     "title": "Episodio 1: Niebla",
-                    "thumbnail": "/assets/episodes/thumb_e43-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e43-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_43.jpg"
+                            "content": "/assets/covers/cover_43.webp"
                         },
                         {
                             "id": "b2",
@@ -10029,6 +11289,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e43-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -10066,6 +11332,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e43-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10115,6 +11387,12 @@
                             }
                         },
                         {
+                            "id": "ad-e43-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Silent Village continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta no hay lugar para la duda en este campo de batalla",
@@ -10160,6 +11438,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e43-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10209,6 +11493,12 @@
                             }
                         },
                         {
+                            "id": "ad-e43-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Silent Village continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -10246,17 +11536,17 @@
             "id": 44,
             "title": "Red Strings",
             "author": "Fate",
-            "image": "/assets/covers/cover_44.jpg",
+            "image": "/assets/covers/cover_44.webp",
             "episodes": [
                 {
                     "id": "e44-1",
                     "title": "Episodio 1: Marionetas",
-                    "thumbnail": "/assets/episodes/thumb_e44-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e44-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_44.jpg"
+                            "content": "/assets/covers/cover_44.webp"
                         },
                         {
                             "id": "b2",
@@ -10267,6 +11557,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e44-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -10304,6 +11600,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e44-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10353,6 +11655,12 @@
                             }
                         },
                         {
+                            "id": "ad-e44-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Red Strings continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -10398,6 +11706,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e44-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10447,6 +11761,12 @@
                             }
                         },
                         {
+                            "id": "ad-e44-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Red Strings continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -10484,17 +11804,17 @@
             "id": 45,
             "title": "Night Shift at 7-Eleven",
             "author": "Clerk",
-            "image": "/assets/covers/cover_45.jpg",
+            "image": "/assets/covers/cover_45.webp",
             "episodes": [
                 {
                     "id": "e45-1",
                     "title": "Episodio 1: El Cliente",
-                    "thumbnail": "/assets/episodes/thumb_e45-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e45-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_45.jpg"
+                            "content": "/assets/covers/cover_45.webp"
                         },
                         {
                             "id": "b2",
@@ -10505,6 +11825,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e45-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -10542,6 +11868,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e45-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10591,6 +11923,12 @@
                             }
                         },
                         {
+                            "id": "ad-e45-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Night Shift at 7-Eleven continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -10636,6 +11974,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e45-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10685,6 +12029,12 @@
                             }
                         },
                         {
+                            "id": "ad-e45-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Night Shift at 7-Eleven continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta un movimiento en falso podría costarlo todo ahora",
@@ -10722,7 +12072,7 @@
             "id": 46,
             "title": "The Last Train",
             "author": "Commuter",
-            "image": "/assets/covers/cover_46.jpg",
+            "image": "/assets/covers/cover_46.webp",
             "episodes": [
                 {
                     "id": "e46-1",
@@ -10732,7 +12082,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_46.jpg"
+                            "content": "/assets/covers/cover_46.webp"
                         },
                         {
                             "id": "b2",
@@ -10743,6 +12093,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e46-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -10780,6 +12136,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e46-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10829,6 +12191,12 @@
                             }
                         },
                         {
+                            "id": "ad-e46-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Last Train continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -10874,6 +12242,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e46-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -10923,6 +12297,12 @@
                             }
                         },
                         {
+                            "id": "ad-e46-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Last Train continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -10960,7 +12340,7 @@
             "id": 47,
             "title": "Inside My Head",
             "author": "Psychosis",
-            "image": "/assets/covers/cover_47.jpg",
+            "image": "/assets/covers/cover_47.webp",
             "episodes": [
                 {
                     "id": "e47-1",
@@ -10970,7 +12350,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_47.jpg"
+                            "content": "/assets/covers/cover_47.webp"
                         },
                         {
                             "id": "b2",
@@ -10981,6 +12361,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e47-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -11018,6 +12404,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e47-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11067,6 +12459,12 @@
                             }
                         },
                         {
+                            "id": "ad-e47-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Inside My Head continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -11112,6 +12510,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e47-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11161,6 +12565,12 @@
                             }
                         },
                         {
+                            "id": "ad-e47-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Inside My Head continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta correr ya no es una opción para nadie aquí",
@@ -11198,7 +12608,7 @@
             "id": 48,
             "title": "The Cursed App",
             "author": "Tech Horror",
-            "image": "/assets/covers/cover_48.jpg",
+            "image": "/assets/covers/cover_48.webp",
             "episodes": [
                 {
                     "id": "e48-1",
@@ -11208,7 +12618,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_48.jpg"
+                            "content": "/assets/covers/cover_48.webp"
                         },
                         {
                             "id": "b2",
@@ -11219,6 +12629,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e48-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -11256,6 +12672,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e48-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11305,6 +12727,12 @@
                             }
                         },
                         {
+                            "id": "ad-e48-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Cursed App continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta La tensión se corta con el filo de una espada",
@@ -11350,6 +12778,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e48-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11399,6 +12833,12 @@
                             }
                         },
                         {
+                            "id": "ad-e48-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de The Cursed App continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -11436,17 +12876,17 @@
             "id": 49,
             "title": "Room 404",
             "author": "Hotelier",
-            "image": "/assets/covers/cover_49.jpg",
+            "image": "/assets/covers/cover_49.webp",
             "episodes": [
                 {
                     "id": "e49-1",
                     "title": "Episodio 1: Check-in",
-                    "thumbnail": "/assets/episodes/thumb_e49-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e49-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_49.jpg"
+                            "content": "/assets/covers/cover_49.webp"
                         },
                         {
                             "id": "b2",
@@ -11457,6 +12897,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e49-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -11494,6 +12940,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e49-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11543,6 +12995,12 @@
                             }
                         },
                         {
+                            "id": "ad-e49-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Room 404 continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta los aliados se vuelven extraños en la confusión",
@@ -11588,6 +13046,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e49-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11637,6 +13101,12 @@
                             }
                         },
                         {
+                            "id": "ad-e49-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Room 404 continúa con Episodio 5 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta una fuerza invisible empuja a todos al abismo",
@@ -11674,17 +13144,17 @@
             "id": 50,
             "title": "Stalker",
             "author": "Observer",
-            "image": "/assets/covers/cover_50.jpg",
+            "image": "/assets/covers/cover_50.webp",
             "episodes": [
                 {
                     "id": "e50-1",
                     "title": "Episodio 1: Fotos",
-                    "thumbnail": "/assets/episodes/thumb_e50-1.jpg",
+                    "thumbnail": "/assets/episodes/thumb_e50-1.webp",
                     "blocks": [
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_50.jpg"
+                            "content": "/assets/covers/cover_50.webp"
                         },
                         {
                             "id": "b2",
@@ -11695,6 +13165,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e50-1-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b3",
@@ -11732,6 +13208,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e50-2-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
@@ -11781,6 +13263,12 @@
                             }
                         },
                         {
+                            "id": "ad-e50-3-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Stalker continúa con Episodio 3 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -11828,6 +13316,12 @@
                             }
                         },
                         {
+                            "id": "ad-e50-4-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
+                        },
+                        {
                             "id": "b2",
                             "type": "text",
                             "content": "El viaje de Stalker continúa con Episodio 4 nuevos desafíos y revelaciones esperan a nuestros protagonistas cada paso los acerca más a descubrir la verdad oculta El sonido del caos llena cada rincón del espacio",
@@ -11873,6 +13367,12 @@
                                 "fontSize": "1.1rem",
                                 "fontStyle": "italic"
                             }
+                        },
+                        {
+                            "id": "ad-e50-5-1768428324910",
+                            "type": "ad",
+                            "content": "Ad Space",
+                            "duration": 5
                         },
                         {
                             "id": "b2",
