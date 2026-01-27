@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Tower of God",
             "author": "@Lab",
-            "image": "/assets/covers/cover_1.webp",
+            "image": "cover_1.webp",
             "episodes": [
                 {
                     "id": "e1-1",
@@ -14,7 +14,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_1.webp"
+                            "content": "cover_1.webp"
                         },
                         {
                             "id": "b2",
@@ -272,7 +272,7 @@
             "id": 2,
             "title": "The God of High School",
             "author": "@Lab",
-            "image": "/assets/covers/cover_2.webp",
+            "image": "cover_2.webp",
             "episodes": [
                 {
                     "id": "e2-1",
@@ -282,7 +282,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_2.webp"
+                            "content": "cover_2.webp"
                         },
                         {
                             "id": "b2",
@@ -540,7 +540,7 @@
             "id": 3,
             "title": "Noblesse",
             "author": "@Lab",
-            "image": "/assets/covers/cover_3.webp",
+            "image": "cover_3.webp",
             "episodes": [
                 {
                     "id": "e3-1",
@@ -550,7 +550,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_3.webp"
+                            "content": "cover_3.webp"
                         },
                         {
                             "id": "b2",
@@ -808,7 +808,7 @@
             "id": 4,
             "title": "Solo Leveling",
             "author": "@Lab",
-            "image": "/assets/covers/cover_4.webp",
+            "image": "cover_4.webp",
             "episodes": [
                 {
                     "id": "e4-1",
@@ -818,7 +818,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_4.webp"
+                            "content": "cover_4.webp"
                         },
                         {
                             "id": "b2",
@@ -1076,7 +1076,7 @@
             "id": 5,
             "title": "DICE",
             "author": "@Lab",
-            "image": "/assets/covers/cover_5.webp",
+            "image": "cover_5.webp",
             "episodes": [
                 {
                     "id": "e5-1",
@@ -1086,7 +1086,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_5.webp"
+                            "content": "cover_5.webp"
                         },
                         {
                             "id": "b2",
@@ -1344,7 +1344,7 @@
             "id": 6,
             "title": "Regresión / Segunda Oportunidad",
             "author": "@Lab",
-            "image": "/assets/covers/cover_6.webp",
+            "image": "cover_6.webp",
             "episodes": [
                 {
                     "id": "e6-1",
@@ -1354,7 +1354,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_6.webp"
+                            "content": "cover_6.webp"
                         },
                         {
                             "id": "b2",
@@ -1612,7 +1612,7 @@
             "id": 7,
             "title": "Mitología Urbana",
             "author": "@Lab",
-            "image": "/assets/covers/cover_7.webp",
+            "image": "cover_7.webp",
             "episodes": [
                 {
                     "id": "e7-1",
@@ -1622,7 +1622,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_7.webp"
+                            "content": "cover_7.webp"
                         },
                         {
                             "id": "b2",
@@ -1880,7 +1880,7 @@
             "id": 8,
             "title": "Caza de Recompensas Sci-Fi",
             "author": "@Lab",
-            "image": "/assets/covers/cover_8.webp",
+            "image": "cover_8.webp",
             "episodes": [
                 {
                     "id": "e8-1",
@@ -1890,7 +1890,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_8.webp"
+                            "content": "cover_8.webp"
                         },
                         {
                             "id": "b2",
@@ -2148,7 +2148,7 @@
             "id": 9,
             "title": "Invocadores",
             "author": "@Lab",
-            "image": "/assets/covers/cover_9.webp",
+            "image": "cover_9.webp",
             "episodes": [
                 {
                     "id": "e9-1",
@@ -2158,7 +2158,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_9.webp"
+                            "content": "cover_9.webp"
                         },
                         {
                             "id": "b2",
@@ -2416,7 +2416,7 @@
             "id": 10,
             "title": "Murim / Artes Marciales",
             "author": "@Lab",
-            "image": "/assets/covers/cover_10.webp",
+            "image": "cover_10.webp",
             "episodes": [
                 {
                     "id": "e10-1",
@@ -2426,7 +2426,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_10.webp"
+                            "content": "cover_10.webp"
                         },
                         {
                             "id": "b2",
@@ -2686,7 +2686,7 @@
             "id": 11,
             "title": "The Secret of the Blue Crystal",
             "author": "Sophia Bennett",
-            "image": "/assets/covers/cover_11.webp",
+            "image": "cover_11.webp",
             "episodes": [
                 {
                     "id": "e11-1",
@@ -2696,7 +2696,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_11.webp"
+                            "content": "cover_11.webp"
                         },
                         {
                             "id": "b2",
@@ -2954,7 +2954,7 @@
             "id": 12,
             "title": "Amor bajo la Lluvia",
             "author": "Elena R.",
-            "image": "/assets/covers/cover_12.webp",
+            "image": "cover_12.webp",
             "episodes": [
                 {
                     "id": "e12-1",
@@ -2964,7 +2964,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_12.webp"
+                            "content": "cover_12.webp"
                         },
                         {
                             "id": "b2",
@@ -3222,7 +3222,7 @@
             "id": 13,
             "title": "Mi Vecino es un Idol",
             "author": "K-Pop Fan",
-            "image": "/assets/covers/cover_13.webp",
+            "image": "cover_13.webp",
             "episodes": [
                 {
                     "id": "e13-1",
@@ -3232,7 +3232,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_13.webp"
+                            "content": "cover_13.webp"
                         },
                         {
                             "id": "b2",
@@ -3490,7 +3490,7 @@
             "id": 14,
             "title": "Café de Gatos y Libros",
             "author": "Mina S.",
-            "image": "/assets/covers/cover_14.webp",
+            "image": "cover_14.webp",
             "episodes": [
                 {
                     "id": "e14-1",
@@ -3500,7 +3500,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_14.webp"
+                            "content": "cover_14.webp"
                         },
                         {
                             "id": "b2",
@@ -3758,7 +3758,7 @@
             "id": 15,
             "title": "La Presidenta del Consejo",
             "author": "School Life",
-            "image": "/assets/covers/cover_15.webp",
+            "image": "cover_15.webp",
             "episodes": [
                 {
                     "id": "e15-1",
@@ -3768,7 +3768,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_15.webp"
+                            "content": "cover_15.webp"
                         },
                         {
                             "id": "b2",
@@ -4026,7 +4026,7 @@
             "id": 16,
             "title": "Verano Eterno",
             "author": "Summer Vibe",
-            "image": "/assets/covers/cover_16.webp",
+            "image": "cover_16.webp",
             "episodes": [
                 {
                     "id": "e16-1",
@@ -4036,7 +4036,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_16.webp"
+                            "content": "cover_16.webp"
                         },
                         {
                             "id": "b2",
@@ -4294,7 +4294,7 @@
             "id": 17,
             "title": "Mi Doble Vida",
             "author": "Secret Identity",
-            "image": "/assets/covers/cover_17.webp",
+            "image": "cover_17.webp",
             "episodes": [
                 {
                     "id": "e17-1",
@@ -4304,7 +4304,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_17.webp"
+                            "content": "cover_17.webp"
                         },
                         {
                             "id": "b2",
@@ -4562,7 +4562,7 @@
             "id": 18,
             "title": "Corazones de Papel",
             "author": "Origami L.",
-            "image": "/assets/covers/cover_18.webp",
+            "image": "cover_18.webp",
             "episodes": [
                 {
                     "id": "e18-1",
@@ -4572,7 +4572,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_18.webp"
+                            "content": "cover_18.webp"
                         },
                         {
                             "id": "b2",
@@ -4830,7 +4830,7 @@
             "id": 19,
             "title": "El Chico de la Ventana",
             "author": "Window Gazer",
-            "image": "/assets/covers/cover_19.webp",
+            "image": "cover_19.webp",
             "episodes": [
                 {
                     "id": "e19-1",
@@ -4840,7 +4840,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_19.webp"
+                            "content": "cover_19.webp"
                         },
                         {
                             "id": "b2",
@@ -5098,7 +5098,7 @@
             "id": 20,
             "title": "Melodía Discreta",
             "author": "Piano Key",
-            "image": "/assets/covers/cover_20.webp",
+            "image": "cover_20.webp",
             "episodes": [
                 {
                     "id": "e20-1",
@@ -5108,7 +5108,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_20.webp"
+                            "content": "cover_20.webp"
                         },
                         {
                             "id": "b2",
@@ -5368,7 +5368,7 @@
             "id": 21,
             "title": "The Red General",
             "author": "War Historian",
-            "image": "/assets/covers/cover_21.webp",
+            "image": "cover_21.webp",
             "episodes": [
                 {
                     "id": "e21-1",
@@ -5378,7 +5378,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_21.webp"
+                            "content": "cover_21.webp"
                         },
                         {
                             "id": "b2",
@@ -5636,7 +5636,7 @@
             "id": 22,
             "title": "Spirit Sword",
             "author": "Blade Master",
-            "image": "/assets/covers/cover_22.webp",
+            "image": "cover_22.webp",
             "episodes": [
                 {
                     "id": "e22-1",
@@ -5646,7 +5646,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_22.webp"
+                            "content": "cover_22.webp"
                         },
                         {
                             "id": "b2",
@@ -5904,7 +5904,7 @@
             "id": 23,
             "title": "The Alchemist's Empire",
             "author": "Gold Maker",
-            "image": "/assets/covers/cover_23.webp",
+            "image": "cover_23.webp",
             "episodes": [
                 {
                     "id": "e23-1",
@@ -5914,7 +5914,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_23.webp"
+                            "content": "cover_23.webp"
                         },
                         {
                             "id": "b2",
@@ -6172,7 +6172,7 @@
             "id": 24,
             "title": "Samurai of the Void",
             "author": "Ronin X",
-            "image": "/assets/covers/cover_24.webp",
+            "image": "cover_24.webp",
             "episodes": [
                 {
                     "id": "e24-1",
@@ -6182,7 +6182,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_24.webp"
+                            "content": "cover_24.webp"
                         },
                         {
                             "id": "b2",
@@ -6440,7 +6440,7 @@
             "id": 25,
             "title": "Imperial Guard",
             "author": "Loyalty First",
-            "image": "/assets/covers/cover_25.webp",
+            "image": "cover_25.webp",
             "episodes": [
                 {
                     "id": "e25-1",
@@ -6450,7 +6450,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_25.webp"
+                            "content": "cover_25.webp"
                         },
                         {
                             "id": "b2",
@@ -6708,7 +6708,7 @@
             "id": 26,
             "title": "The Dragon's Scroll",
             "author": "Myth Keeper",
-            "image": "/assets/covers/cover_26.webp",
+            "image": "cover_26.webp",
             "episodes": [
                 {
                     "id": "e26-1",
@@ -6718,7 +6718,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_26.webp"
+                            "content": "cover_26.webp"
                         },
                         {
                             "id": "b2",
@@ -6976,7 +6976,7 @@
             "id": 27,
             "title": "Knight of the Eclipse",
             "author": "Dark Soul",
-            "image": "/assets/covers/cover_27.webp",
+            "image": "cover_27.webp",
             "episodes": [
                 {
                     "id": "e27-1",
@@ -6986,7 +6986,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_27.webp"
+                            "content": "cover_27.webp"
                         },
                         {
                             "id": "b2",
@@ -7244,7 +7244,7 @@
             "id": 28,
             "title": "Chronicles of the Old Kingdom",
             "author": "Scribe",
-            "image": "/assets/covers/cover_28.webp",
+            "image": "cover_28.webp",
             "episodes": [
                 {
                     "id": "e28-1",
@@ -7254,7 +7254,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_28.webp"
+                            "content": "cover_28.webp"
                         },
                         {
                             "id": "b2",
@@ -7512,7 +7512,7 @@
             "id": 29,
             "title": "The Shaman Queen",
             "author": "Spirit Walker",
-            "image": "/assets/covers/cover_29.webp",
+            "image": "cover_29.webp",
             "episodes": [
                 {
                     "id": "e29-1",
@@ -7522,7 +7522,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_29.webp"
+                            "content": "cover_29.webp"
                         },
                         {
                             "id": "b2",
@@ -7780,7 +7780,7 @@
             "id": 30,
             "title": "Blade of the North",
             "author": "Winter Warrior",
-            "image": "/assets/covers/cover_30.webp",
+            "image": "cover_30.webp",
             "episodes": [
                 {
                     "id": "e30-1",
@@ -7790,7 +7790,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_30.webp"
+                            "content": "cover_30.webp"
                         },
                         {
                             "id": "b2",
@@ -8050,7 +8050,7 @@
             "id": 31,
             "title": "Broken Strings",
             "author": "Melody Heart",
-            "image": "/assets/covers/cover_31.webp",
+            "image": "cover_31.webp",
             "episodes": [
                 {
                     "id": "e31-1",
@@ -8060,7 +8060,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_31.webp"
+                            "content": "cover_31.webp"
                         },
                         {
                             "id": "b2",
@@ -8318,7 +8318,7 @@
             "id": 32,
             "title": "Midnight Cafe",
             "author": "Night Owl",
-            "image": "/assets/covers/cover_32.webp",
+            "image": "cover_32.webp",
             "episodes": [
                 {
                     "id": "e32-1",
@@ -8328,7 +8328,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_32.webp"
+                            "content": "cover_32.webp"
                         },
                         {
                             "id": "b2",
@@ -8586,7 +8586,7 @@
             "id": 33,
             "title": "Fading Colors",
             "author": "Art Soul",
-            "image": "/assets/covers/cover_33.webp",
+            "image": "cover_33.webp",
             "episodes": [
                 {
                     "id": "e33-1",
@@ -8596,7 +8596,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_33.webp"
+                            "content": "cover_33.webp"
                         },
                         {
                             "id": "b2",
@@ -8854,7 +8854,7 @@
             "id": 34,
             "title": "The Apartment Next Door",
             "author": "City Living",
-            "image": "/assets/covers/cover_34.webp",
+            "image": "cover_34.webp",
             "episodes": [
                 {
                     "id": "e34-1",
@@ -8864,7 +8864,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_34.webp"
+                            "content": "cover_34.webp"
                         },
                         {
                             "id": "b2",
@@ -9122,7 +9122,7 @@
             "id": 35,
             "title": "Salaryman's Blues",
             "author": "Office Worker",
-            "image": "/assets/covers/cover_35.webp",
+            "image": "cover_35.webp",
             "episodes": [
                 {
                     "id": "e35-1",
@@ -9132,7 +9132,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_35.webp"
+                            "content": "cover_35.webp"
                         },
                         {
                             "id": "b2",
@@ -9390,7 +9390,7 @@
             "id": 36,
             "title": "Winter Echoes",
             "author": "Snowfall",
-            "image": "/assets/covers/cover_36.webp",
+            "image": "cover_36.webp",
             "episodes": [
                 {
                     "id": "e36-1",
@@ -9400,7 +9400,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_36.webp"
+                            "content": "cover_36.webp"
                         },
                         {
                             "id": "b2",
@@ -9658,7 +9658,7 @@
             "id": 37,
             "title": "University Days",
             "author": "Campus Life",
-            "image": "/assets/covers/cover_37.webp",
+            "image": "cover_37.webp",
             "episodes": [
                 {
                     "id": "e37-1",
@@ -9668,7 +9668,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_37.webp"
+                            "content": "cover_37.webp"
                         },
                         {
                             "id": "b2",
@@ -9926,7 +9926,7 @@
             "id": 38,
             "title": "Emergency Ward",
             "author": "Medic",
-            "image": "/assets/covers/cover_38.webp",
+            "image": "cover_38.webp",
             "episodes": [
                 {
                     "id": "e38-1",
@@ -9936,7 +9936,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_38.webp"
+                            "content": "cover_38.webp"
                         },
                         {
                             "id": "b2",
@@ -10194,7 +10194,7 @@
             "id": 39,
             "title": "The Old Bookstore",
             "author": "Bookworm",
-            "image": "/assets/covers/cover_39.webp",
+            "image": "cover_39.webp",
             "episodes": [
                 {
                     "id": "e39-1",
@@ -10204,7 +10204,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_39.webp"
+                            "content": "cover_39.webp"
                         },
                         {
                             "id": "b2",
@@ -10462,7 +10462,7 @@
             "id": 40,
             "title": "Family Portrait",
             "author": "Genealogy",
-            "image": "/assets/covers/cover_40.webp",
+            "image": "cover_40.webp",
             "episodes": [
                 {
                     "id": "e40-1",
@@ -10472,7 +10472,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_40.webp"
+                            "content": "cover_40.webp"
                         },
                         {
                             "id": "b2",
@@ -10732,7 +10732,7 @@
             "id": 41,
             "title": "The Dollhouse",
             "author": "Creepy Crafts",
-            "image": "/assets/covers/cover_41.webp",
+            "image": "cover_41.webp",
             "episodes": [
                 {
                     "id": "e41-1",
@@ -10742,7 +10742,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_41.webp"
+                            "content": "cover_41.webp"
                         },
                         {
                             "id": "b2",
@@ -11000,7 +11000,7 @@
             "id": 42,
             "title": "Echoes in the Mirror",
             "author": "Reflections",
-            "image": "/assets/covers/cover_42.webp",
+            "image": "cover_42.webp",
             "episodes": [
                 {
                     "id": "e42-1",
@@ -11010,7 +11010,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_42.webp"
+                            "content": "cover_42.webp"
                         },
                         {
                             "id": "b2",
@@ -11268,7 +11268,7 @@
             "id": 43,
             "title": "The Silent Village",
             "author": "Ghost Town",
-            "image": "/assets/covers/cover_43.webp",
+            "image": "cover_43.webp",
             "episodes": [
                 {
                     "id": "e43-1",
@@ -11278,7 +11278,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_43.webp"
+                            "content": "cover_43.webp"
                         },
                         {
                             "id": "b2",
@@ -11536,7 +11536,7 @@
             "id": 44,
             "title": "Red Strings",
             "author": "Fate",
-            "image": "/assets/covers/cover_44.webp",
+            "image": "cover_44.webp",
             "episodes": [
                 {
                     "id": "e44-1",
@@ -11546,7 +11546,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_44.webp"
+                            "content": "cover_44.webp"
                         },
                         {
                             "id": "b2",
@@ -11804,7 +11804,7 @@
             "id": 45,
             "title": "Night Shift at 7-Eleven",
             "author": "Clerk",
-            "image": "/assets/covers/cover_45.webp",
+            "image": "cover_45.webp",
             "episodes": [
                 {
                     "id": "e45-1",
@@ -11814,7 +11814,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_45.webp"
+                            "content": "cover_45.webp"
                         },
                         {
                             "id": "b2",
@@ -12072,7 +12072,7 @@
             "id": 46,
             "title": "The Last Train",
             "author": "Commuter",
-            "image": "/assets/covers/cover_46.webp",
+            "image": "cover_46.webp",
             "episodes": [
                 {
                     "id": "e46-1",
@@ -12082,7 +12082,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_46.webp"
+                            "content": "cover_46.webp"
                         },
                         {
                             "id": "b2",
@@ -12340,7 +12340,7 @@
             "id": 47,
             "title": "Inside My Head",
             "author": "Psychosis",
-            "image": "/assets/covers/cover_47.webp",
+            "image": "cover_47.webp",
             "episodes": [
                 {
                     "id": "e47-1",
@@ -12350,7 +12350,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_47.webp"
+                            "content": "cover_47.webp"
                         },
                         {
                             "id": "b2",
@@ -12608,7 +12608,7 @@
             "id": 48,
             "title": "The Cursed App",
             "author": "Tech Horror",
-            "image": "/assets/covers/cover_48.webp",
+            "image": "cover_48.webp",
             "episodes": [
                 {
                     "id": "e48-1",
@@ -12618,7 +12618,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_48.webp"
+                            "content": "cover_48.webp"
                         },
                         {
                             "id": "b2",
@@ -12876,7 +12876,7 @@
             "id": 49,
             "title": "Room 404",
             "author": "Hotelier",
-            "image": "/assets/covers/cover_49.webp",
+            "image": "cover_49.webp",
             "episodes": [
                 {
                     "id": "e49-1",
@@ -12886,7 +12886,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_49.webp"
+                            "content": "cover_49.webp"
                         },
                         {
                             "id": "b2",
@@ -13144,7 +13144,7 @@
             "id": 50,
             "title": "Stalker",
             "author": "Observer",
-            "image": "/assets/covers/cover_50.webp",
+            "image": "cover_50.webp",
             "episodes": [
                 {
                     "id": "e50-1",
@@ -13154,7 +13154,7 @@
                         {
                             "id": "b1",
                             "type": "cinematic",
-                            "content": "/assets/covers/cover_50.webp"
+                            "content": "cover_50.webp"
                         },
                         {
                             "id": "b2",
